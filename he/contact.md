@@ -57,7 +57,7 @@ permalink: /he/contact
               <path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/>
             </svg>
           </span>
-          <a href="https://maps.google.com/?q=34+Gainsborough+Road,+London+N12+8AG" class="contact-link" target="_blank" rel="noopener">34 Gainsborough Road, London N12 8AG</a>
+          <a href="https://maps.google.com/?q=34+Gainsborough+Road,+London+N12+8AG" class="contact-link" target="_blank" rel="noopener">34D Gainsborough Road, London N12 8AG</a>
         </div>
       </div>
     </section>
@@ -90,7 +90,7 @@ permalink: /he/contact
       <h2>פרטי הפגישות</h2>
       <p>
         <strong>אורך פגישה:</strong> 50 דקות<br>
-        <strong>מיקום:</strong> <a href="https://maps.google.com/?q=34+Gainsborough+Road,+London+N12+8AG" target="_blank" rel="noopener">34 Gainsborough Road, N12 8AG</a> או אונליין<br>
+        <strong>מיקום:</strong> <a href="https://maps.google.com/?q=34+Gainsborough+Road,+London+N12+8AG" target="_blank" rel="noopener">34D Gainsborough Road, N12 8AG</a> או אונליין<br>
         <strong>שפות:</strong> עברית ואנגלית
       </p>
       <p>

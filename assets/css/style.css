@@ -551,6 +551,8 @@ body.rtl .lang-switcher {
 }
 
 .service-card {
+  display: flex;
+  gap: var(--space-md);
   background: linear-gradient(135deg, var(--color-white) 0%, var(--color-cream) 100%);
   padding: var(--space-lg);
   border-radius: 8px;
@@ -569,8 +571,42 @@ body.rtl .service-card {
   box-shadow: 0 6px 20px rgba(107, 91, 122, 0.15);
 }
 
+.service-card:hover .service-icon {
+  transform: scale(1.1);
+}
+
+/* Service Icons */
+.service-icon {
+  flex-shrink: 0;
+  width: 70px;
+  height: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(135deg, var(--color-turquoise) 0%, var(--color-turquoise-dark) 100%);
+  border-radius: 50%;
+  transition: transform var(--transition-fast);
+}
+
+.service-icon svg {
+  width: 36px;
+  height: 36px;
+  color: var(--color-white);
+}
+
+.service-content {
+  flex: 1;
+}
+
+.service-card:nth-child(1) .service-icon {
+  background: linear-gradient(135deg, var(--color-turquoise) 0%, var(--color-turquoise-dark) 100%);
+}
+
 .service-card:nth-child(2) {
   border-left-color: var(--color-purple);
+}
+.service-card:nth-child(2) .service-icon {
+  background: linear-gradient(135deg, var(--color-purple) 0%, var(--color-purple-dark) 100%);
 }
 body.rtl .service-card:nth-child(2) {
   border-right-color: var(--color-purple);
@@ -579,6 +615,9 @@ body.rtl .service-card:nth-child(2) {
 .service-card:nth-child(3) {
   border-left-color: var(--color-burgundy);
 }
+.service-card:nth-child(3) .service-icon {
+  background: linear-gradient(135deg, var(--color-burgundy) 0%, var(--color-burgundy-dark) 100%);
+}
 body.rtl .service-card:nth-child(3) {
   border-right-color: var(--color-burgundy);
 }
@@ -586,12 +625,18 @@ body.rtl .service-card:nth-child(3) {
 .service-card:nth-child(4) {
   border-left-color: var(--color-green);
 }
+.service-card:nth-child(4) .service-icon {
+  background: linear-gradient(135deg, var(--color-green) 0%, var(--color-green-dark) 100%);
+}
 body.rtl .service-card:nth-child(4) {
   border-right-color: var(--color-green);
 }
 
 .service-card:nth-child(5) {
   border-left-color: var(--color-pink);
+}
+.service-card:nth-child(5) .service-icon {
+  background: linear-gradient(135deg, var(--color-pink) 0%, var(--color-burgundy-light) 100%);
 }
 body.rtl .service-card:nth-child(5) {
   border-right-color: var(--color-pink);
@@ -601,6 +646,23 @@ body.rtl .service-card:nth-child(5) {
   color: var(--color-purple-dark);
   margin-top: 0;
   margin-bottom: var(--space-sm);
+}
+
+/* Mobile: stack icon on top */
+@media screen and (max-width: 500px) {
+  .service-card {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+  
+  body.rtl .service-card {
+    text-align: center;
+  }
+  
+  .service-icon {
+    margin-bottom: var(--space-sm);
+  }
 }
 
 /* Accreditation List */
