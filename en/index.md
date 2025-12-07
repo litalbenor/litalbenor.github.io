@@ -7,6 +7,7 @@ permalink: /en/
 ---
 
 <div class="hero">
+  <img src="/assets/images/logo.png" alt="Lital Ben Or" class="hero-logo">
   <h1 class="hero-title">Lital Ben Or</h1>
   <p class="hero-subtitle">Certified Couple & Individual Therapist • Psychosexual Therapy • EMDR</p>
   <p class="hero-description">

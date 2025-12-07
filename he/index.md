@@ -7,6 +7,7 @@ permalink: /he/
 ---
 
 <div class="hero">
+  <img src="/assets/images/logo.png" alt="ליטל בן אור" class="hero-logo">
   <h1 class="hero-title">ליטל בן אור</h1>
   <p class="hero-subtitle">מטפלת זוגית ופרטנית מוסמכת • טיפול פסיכו-מיני • EMDR</p>
   <p class="hero-description">
