@@ -35,11 +35,17 @@ permalink: /en/articles
 
       <h3>The Equipment I Use</h3>
       <p>
-        To ensure the most effective treatment, I use specialised equipment for EMDR sessions:
+        To ensure the most effective treatment, I use professional-grade EMDR equipment — the <strong>EMDR Kit Wireless</strong> with Pulsators and Headphones:
       </p>
+      
+      <div style="text-align: center; margin: 2rem 0;">
+        <img src="/assets/images/emdr-kit.jpg" alt="EMDR Kit Wireless - Pulsators and Headphones" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
+        <p style="font-size: 0.9rem; color: #666; margin-top: 0.5rem;">The EMDR Kit Wireless with Pulsators and Headphones</p>
+      </div>
+      
       <ul>
-        <li><strong>In-person sessions:</strong> I use a professional vibrating device that provides gentle bilateral tactile stimulation, allowing clients to focus fully on their internal processing.</li>
-        <li><strong>Online sessions:</strong> I use an advanced EMDR application that incorporates visual stimulation and audio cues, making remote EMDR just as effective as in-person treatment.</li>
+        <li><strong>In-person sessions:</strong> I use wireless pulsators — professional vibrating devices held in each hand that provide gentle bilateral tactile stimulation. This allows clients to close their eyes and focus fully on their internal processing without any distractions.</li>
+        <li><strong>Online sessions:</strong> I use an advanced EMDR application that incorporates visual stimulation (moving images on screen) and bilateral audio cues through headphones, making remote EMDR just as effective as in-person treatment.</li>
       </ul>
 
       <h3>My Approach: Following the Protocol</h3>
