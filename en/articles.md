@@ -13,37 +13,46 @@ permalink: /en/articles
   </header>
 
   <div class="page-content">
-    <section class="content-section">
+    <article class="content-section">
+      <h2>EMDR: A Powerful Tool for Healing</h2>
+      <p class="article-date">By Lital Ben Or</p>
+      
+      <h3>What is EMDR?</h3>
       <p>
-        I regularly share thoughts and insights on topics related to therapy, relationships, and personal growth. Check back soon for new articles.
+        EMDR (Eye Movement Desensitisation and Reprocessing) is a powerful, evidence-based psychotherapy that helps people heal from trauma and other distressing life experiences. Developed in the late 1980s, EMDR has since become one of the most researched and effective treatments for trauma, anxiety, and a wide range of emotional difficulties.
+      </p>
+      <p>
+        Unlike traditional talk therapy, EMDR works by stimulating both sides of the brain through bilateral stimulation — such as guided eye movements, sounds, or tactile sensations. This process helps the brain reprocess traumatic memories, reducing their emotional intensity and allowing clients to move forward without being held back by the past.
       </p>
 
-      <ul class="articles-list">
-        <li class="article-item">
-          <h3 class="article-title">[Article Title Placeholder 1]</h3>
-          <p class="article-date">Coming soon</p>
-          <p class="article-excerpt">
-            [Brief description of the article topic to be added here.]
-          </p>
-        </li>
+      <h3>How I Use EMDR in My Practice</h3>
+      <p>
+        In my practice, I use EMDR both as a standalone therapy and as a complementary modality integrated within broader therapeutic work. Some clients come specifically for EMDR treatment, while others benefit from incorporating it into their ongoing therapy when we encounter deep-rooted issues that need targeted processing.
+      </p>
+      <p>
+        EMDR is a relatively new yet remarkably powerful tool that enables me to help clients reach the root causes of their difficulties and untangle long-held emotional patterns. It can be transformative for issues that have felt "stuck" despite previous therapeutic work.
+      </p>
 
-        <li class="article-item">
-          <h3 class="article-title">[Article Title Placeholder 2]</h3>
-          <p class="article-date">Coming soon</p>
-          <p class="article-excerpt">
-            [Brief description of the article topic to be added here.]
-          </p>
-        </li>
-
-        <li class="article-item">
-          <h3 class="article-title">[Article Title Placeholder 3]</h3>
-          <p class="article-date">Coming soon</p>
-          <p class="article-excerpt">
-            [Brief description of the article topic to be added here.]
-          </p>
-        </li>
+      <h3>The Equipment I Use</h3>
+      <p>
+        To ensure the most effective treatment, I use specialised equipment for EMDR sessions:
+      </p>
+      <ul>
+        <li><strong>In-person sessions:</strong> I use a professional vibrating device that provides gentle bilateral tactile stimulation, allowing clients to focus fully on their internal processing.</li>
+        <li><strong>Online sessions:</strong> I use an advanced EMDR application that incorporates visual stimulation and audio cues, making remote EMDR just as effective as in-person treatment.</li>
       </ul>
-    </section>
+
+      <h3>My Approach: Following the Protocol</h3>
+      <p>
+        I am committed to working strictly according to the established EMDR protocol. This structured approach has been refined through decades of research and clinical practice, and following it carefully ensures safe, responsible, and effective outcomes for my clients.
+      </p>
+      <p>
+        EMDR is not something to be rushed or adapted loosely — it requires precision, proper preparation, and careful pacing. By adhering to the protocol, I can offer my clients the best possible results while maintaining their emotional safety throughout the process.
+      </p>
+
+      <p style="margin-top: 2rem;">
+        <em>If you're curious whether EMDR might help you, please <a href="/en/contact">get in touch</a> to discuss your needs.</em>
+      </p>
+    </article>
   </div>
 </div>
-
