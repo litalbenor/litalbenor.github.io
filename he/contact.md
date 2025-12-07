@@ -1,6 +1,7 @@
 ---
 layout: default
 title: צור קשר
+description: "קבעו פגישת טיפול עם ליטל בן אור. מקבלת בצפון לונדון (N12). צרו קשר בוואטסאפ, טלפון או אימייל. משיבה תוך 24 שעות."
 lang: he
 dir: rtl
 permalink: /he/contact

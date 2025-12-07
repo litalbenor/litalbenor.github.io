@@ -1,6 +1,7 @@
 ---
 layout: default
 title: הקליניקה
+description: "בקרו בקליניקה שלנו בצפון לונדון (N12 8AG). ליד תחנת Woodside Park. חנייה פרטית חינמית. מרחב נוח וסודי לטיפול זוגי ופרטני."
 lang: he
 dir: rtl
 permalink: /he/clinic

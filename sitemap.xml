@@ -4,24 +4,135 @@ layout: null
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  {% for page in site.pages %}
-    {% if page.url contains '.html' or page.url == '/' or page.url contains '/en/' or page.url contains '/he/' %}
-      {% unless page.url contains 'sitemap' or page.url contains '404' %}
-      <url>
-        <loc>{{ site.url }}{{ page.url | remove: 'index.html' }}</loc>
-        <lastmod>{{ site.time | date: '%Y-%m-%d' }}</lastmod>
-        {% if page.lang == 'en' %}
-        <xhtml:link rel="alternate" hreflang="en" href="{{ site.url }}/en{{ page.url | remove: '/en' | remove: 'index.html' }}" />
-        <xhtml:link rel="alternate" hreflang="he" href="{{ site.url }}/he{{ page.url | remove: '/en' | remove: 'index.html' }}" />
-        {% elsif page.lang == 'he' %}
-        <xhtml:link rel="alternate" hreflang="en" href="{{ site.url }}/en{{ page.url | remove: '/he' | remove: 'index.html' }}" />
-        <xhtml:link rel="alternate" hreflang="he" href="{{ site.url }}/he{{ page.url | remove: '/he' | remove: 'index.html' }}" />
-        {% endif %}
-        <changefreq>monthly</changefreq>
-        <priority>{% if page.url == '/en/' or page.url == '/he/' %}1.0{% else %}0.8{% endif %}</priority>
-      </url>
-      {% endunless %}
-    {% endif %}
-  {% endfor %}
+  
+  <!-- English Pages -->
+  <url>
+    <loc>{{ site.url }}/en/</loc>
+    <lastmod>{{ site.time | date: '%Y-%m-%d' }}</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="{{ site.url }}/en/" />
+    <xhtml:link rel="alternate" hreflang="he" href="{{ site.url }}/he/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="{{ site.url }}/en/" />
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>{{ site.url }}/en/about</loc>
+    <lastmod>{{ site.time | date: '%Y-%m-%d' }}</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="{{ site.url }}/en/about" />
+    <xhtml:link rel="alternate" hreflang="he" href="{{ site.url }}/he/about" />
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <url>
+    <loc>{{ site.url }}/en/services</loc>
+    <lastmod>{{ site.time | date: '%Y-%m-%d' }}</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="{{ site.url }}/en/services" />
+    <xhtml:link rel="alternate" hreflang="he" href="{{ site.url }}/he/services" />
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <url>
+    <loc>{{ site.url }}/en/contact</loc>
+    <lastmod>{{ site.time | date: '%Y-%m-%d' }}</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="{{ site.url }}/en/contact" />
+    <xhtml:link rel="alternate" hreflang="he" href="{{ site.url }}/he/contact" />
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <url>
+    <loc>{{ site.url }}/en/clinic</loc>
+    <lastmod>{{ site.time | date: '%Y-%m-%d' }}</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="{{ site.url }}/en/clinic" />
+    <xhtml:link rel="alternate" hreflang="he" href="{{ site.url }}/he/clinic" />
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>{{ site.url }}/en/accreditations</loc>
+    <lastmod>{{ site.time | date: '%Y-%m-%d' }}</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="{{ site.url }}/en/accreditations" />
+    <xhtml:link rel="alternate" hreflang="he" href="{{ site.url }}/he/accreditations" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>{{ site.url }}/en/articles</loc>
+    <lastmod>{{ site.time | date: '%Y-%m-%d' }}</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="{{ site.url }}/en/articles" />
+    <xhtml:link rel="alternate" hreflang="he" href="{{ site.url }}/he/articles" />
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Hebrew Pages -->
+  <url>
+    <loc>{{ site.url }}/he/</loc>
+    <lastmod>{{ site.time | date: '%Y-%m-%d' }}</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="{{ site.url }}/en/" />
+    <xhtml:link rel="alternate" hreflang="he" href="{{ site.url }}/he/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="{{ site.url }}/en/" />
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>{{ site.url }}/he/about</loc>
+    <lastmod>{{ site.time | date: '%Y-%m-%d' }}</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="{{ site.url }}/en/about" />
+    <xhtml:link rel="alternate" hreflang="he" href="{{ site.url }}/he/about" />
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <url>
+    <loc>{{ site.url }}/he/services</loc>
+    <lastmod>{{ site.time | date: '%Y-%m-%d' }}</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="{{ site.url }}/en/services" />
+    <xhtml:link rel="alternate" hreflang="he" href="{{ site.url }}/he/services" />
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <url>
+    <loc>{{ site.url }}/he/contact</loc>
+    <lastmod>{{ site.time | date: '%Y-%m-%d' }}</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="{{ site.url }}/en/contact" />
+    <xhtml:link rel="alternate" hreflang="he" href="{{ site.url }}/he/contact" />
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <url>
+    <loc>{{ site.url }}/he/clinic</loc>
+    <lastmod>{{ site.time | date: '%Y-%m-%d' }}</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="{{ site.url }}/en/clinic" />
+    <xhtml:link rel="alternate" hreflang="he" href="{{ site.url }}/he/clinic" />
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>{{ site.url }}/he/accreditations</loc>
+    <lastmod>{{ site.time | date: '%Y-%m-%d' }}</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="{{ site.url }}/en/accreditations" />
+    <xhtml:link rel="alternate" hreflang="he" href="{{ site.url }}/he/accreditations" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>{{ site.url }}/he/articles</loc>
+    <lastmod>{{ site.time | date: '%Y-%m-%d' }}</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="{{ site.url }}/en/articles" />
+    <xhtml:link rel="alternate" hreflang="he" href="{{ site.url }}/he/articles" />
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
 </urlset>
-

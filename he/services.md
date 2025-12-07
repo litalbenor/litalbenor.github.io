@@ -1,6 +1,7 @@
 ---
 layout: default
-title: שירותים
+title: שירותי טיפול
+description: "טיפול זוגי, טיפול פרטני, טיפול פסיכו-מיני, EMDR וטיפול אונליין בצפון לונדון (N12). ליווי מקצועי לזוגיות, אינטימיות, טראומה וחרדה."
 lang: he
 dir: rtl
 permalink: /he/services
@@ -8,25 +9,25 @@ permalink: /he/services
 
 <div class="container container--narrow">
   <header class="page-header">
-    <h1 class="page-title">שירותים</h1>
-    <p class="page-intro">אני מציעה מגוון שירותי טיפול ליחידים וזוגות, פנים אל פנים ובאונליין.</p>
+    <h1 class="page-title">שירותי טיפול</h1>
+    <p class="page-intro">אני מציעה מגוון שירותי טיפול ליחידים וזוגות, פנים אל פנים ב<a href="/he/clinic">קליניקה בצפון לונדון (N12)</a> ובאונליין.</p>
   </header>
 
   <div class="page-content">
     <div class="service-list">
 
-      <article class="service-card">
-        <h3>טיפול פרטני</h3>
+      <article id="individual-therapy" class="service-card">
+        <h2>טיפול פרטני</h2>
         <p>
           טיפול אישי מספק מרחב סודי לחקור אתגרים אישיים, קשיים רגשיים ומעברי חיים. יחד, אנחנו עובדים להבין דפוסים, לפתח אסטרטגיות התמודדות ולטפח צמיחה אישית.
         </p>
         <p>
-          תחומים נפוצים שאני מלווה כוללים חרדה, דיכאון, בעיות הערכה עצמית, שינויי חיים והתפתחות אישית.
+          תחומים נפוצים שאני מלווה כוללים חרדה, דיכאון, הערכה עצמית, שינויי חיים והתפתחות אישית.
         </p>
       </article>
 
-      <article class="service-card">
-        <h3>טיפול זוגי</h3>
+      <article id="couples-therapy" class="service-card">
+        <h2>טיפול זוגי</h2>
         <p>
           זוגיות עוברת תקופות קשות, ולפעמים זוגות צריכים תמיכה כדי לנווט יחד את האתגרים. טיפול זוגי מציע מרחב בטוח לשיפור תקשורת, פתרון קונפליקטים ובניית קשר מחודש.
         </p>
@@ -35,8 +36,8 @@ permalink: /he/services
         </p>
       </article>
 
-      <article class="service-card">
-        <h3>טיפול פסיכו-מיני</h3>
+      <article id="psychosexual-therapy" class="service-card">
+        <h2>טיפול פסיכו-מיני</h2>
         <p>
           קשיים מיניים יכולים להשפיע עמוקות על יחידים וזוגות. טיפול פסיכו-מיני מתייחס לנושאים כמו חוסר רצון מיני, קשיים באינטימיות, חרדה מינית ודינמיקות זוגיות סביב מיניות.
         </p>
@@ -45,18 +46,18 @@ permalink: /he/services
         </p>
       </article>
 
-      <article class="service-card">
-        <h3>טיפול טראומה בשיטת EMDR</h3>
+      <article id="emdr-therapy" class="service-card">
+        <h2>טיפול טראומה בשיטת EMDR</h2>
         <p>
           EMDR (עיבוד מחדש והסרת רגישות באמצעות תנועות עיניים) הוא טיפול מבוסס מחקר לעיבוד זיכרונות טראומטיים והפחתת ההשפעה הרגשית שלהם. הוא יכול להיות יעיל ל-PTSD, חרדות, פוביות וקשיים אחרים הקשורים לטראומה.
         </p>
         <p>
-          אני מטפלת EMDR מוסמכת ומשלבת גישה זו כשזה מתאים למטופלים המתמודדים עם טראומות מהעבר.
+          אני מטפלת EMDR מוסמכת ומשלבת גישה זו כשזה מתאים למטופלים המתמודדים עם טראומות מהעבר. <a href="/he/articles">קראו עוד על EMDR במאמרים שלי ←</a>
         </p>
       </article>
 
-      <article class="service-card">
-        <h3>טיפול אונליין</h3>
+      <article id="online-therapy" class="service-card">
+        <h2>טיפול אונליין</h2>
         <p>
           אני מציעה פגישות טיפול אונליין מאובטחות בשיחת וידאו, המספקות גמישות למטופלים שמעדיפים פגישות מרחוק או שאינם יכולים להגיע פיזית. טיפול אונליין זמין לכל השירותים שאני מציעה.
         </p>
@@ -66,5 +67,14 @@ permalink: /he/services
       </article>
 
     </div>
+
+    <section class="content-section page-cta">
+      <h2>קבעו את הפגישה הראשונה</h2>
+      <p>לעשות את הצעד הראשון יכול להרגיש מאתגר, אבל אתם לא צריכים לעשות את זה לבד. אני כאן להקשיב ולעזור לכם למצוא את הדרך קדימה.</p>
+      <div class="cta-buttons">
+        <a href="/he/about" class="btn btn--secondary">אודותיי</a>
+        <a href="/he/contact" class="btn btn--primary">לקביעת פגישה</a>
+      </div>
+    </section>
   </div>
 </div>

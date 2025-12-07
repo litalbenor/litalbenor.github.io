@@ -1,6 +1,7 @@
 ---
 layout: default
-title: About
+title: About Lital Ben Or
+description: "Learn about Lital Ben Or, a certified couple and individual therapist with 15+ years experience. Based in North London (N12), offering therapy in English and Hebrew."
 lang: en
 dir: ltr
 permalink: /en/about
@@ -14,7 +15,7 @@ permalink: /en/about
 
   <div class="page-content">
     <div class="about-portrait">
-      <img src="/assets/images/portrait.png" alt="Lital Ben Or - Therapist">
+      <img src="/assets/images/portrait.png" alt="Lital Ben Or, Certified Couple and Individual Therapist in North London" width="300" height="300" loading="lazy">
     </div>
 
     <section class="content-section">
@@ -57,6 +58,18 @@ permalink: /en/about
         <li><strong>Sexual Therapy Training</strong> — Bar-Ilan University (2021–2022)</li>
         <li><strong>EMDR Training</strong> — Certified EMDR Practitioner</li>
       </ul>
+      <p>
+        <a href="/en/accreditations">View my full accreditations and professional memberships →</a>
+      </p>
+    </section>
+
+    <section class="content-section page-cta">
+      <h2>Ready to Start Your Journey?</h2>
+      <p>I offer a warm, confidential space to explore your challenges. Whether you're an individual or a couple, I'm here to help.</p>
+      <div class="cta-buttons">
+        <a href="/en/services" class="btn btn--secondary">View Services</a>
+        <a href="/en/contact" class="btn btn--primary">Book a Consultation</a>
+      </div>
     </section>
   </div>
 </div>

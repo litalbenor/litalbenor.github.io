@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Accreditations
+title: Accreditations & Training
+description: "Professional qualifications of Lital Ben Or: MSW Tel Aviv University, certified couple & family therapist, EMDR practitioner, psychosexual therapy training."
 lang: en
 dir: ltr
 permalink: /en/accreditations

@@ -1,6 +1,7 @@
 ---
 layout: default
-title: הסמכות
+title: הסמכות והכשרה
+description: "הכישורים המקצועיים של ליטל בן אור: תואר שני בעבודה סוציאלית, מטפלת זוגית ומשפחתית מוסמכת, מטפלת EMDR, הכשרה בטיפול מיני."
 lang: he
 dir: rtl
 permalink: /he/accreditations

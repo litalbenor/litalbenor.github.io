@@ -1,21 +1,28 @@
-<header class="site-header">
+<header class="site-header" role="banner">
   <div class="container">
     <div class="header-inner">
-      <a href="{% if page.lang == 'he' %}/he/{% else %}/en/{% endif %}" class="site-logo">
-        <img src="/assets/images/logo.png" alt="Lital Ben Or" class="logo-image">
+      <a href="{% if page.lang == 'he' %}/he/{% else %}/en/{% endif %}" class="site-logo" aria-label="{% if page.lang == 'he' %}דף הבית{% else %}Home{% endif %}">
+        <img src="/assets/images/logo.png" alt="Lital Ben Or" class="logo-image" width="50" height="50" loading="eager">
         <div class="logo-text-wrapper">
           <span class="logo-text">Lital Ben Or</span>
           <span class="logo-subtitle">{% if page.lang == 'he' %}מטפלת זוגית ופרטנית{% else %}Therapy{% endif %}</span>
         </div>
       </a>
       
-      <button class="mobile-menu-toggle" aria-label="Toggle menu" aria-expanded="false">
-        <span class="hamburger"></span>
+      <button class="mobile-menu-toggle" aria-label="{% if page.lang == 'he' %}פתח תפריט{% else %}Toggle menu{% endif %}" aria-expanded="false" aria-controls="main-nav">
+        <span class="hamburger" aria-hidden="true"></span>
       </button>
       
-      {% include nav.html %}
+      <nav id="main-nav" class="site-nav" role="navigation" aria-label="{% if page.lang == 'he' %}ניווט ראשי{% else %}Main navigation{% endif %}">
+        {% include nav.html %}
+      </nav>
       
-      {% include lang-switcher.html %}
+      <div class="header-actions">
+        {% include lang-switcher.html %}
+        <a href="{% if page.lang == 'he' %}/he/contact{% else %}/en/contact{% endif %}" class="btn btn--header" aria-label="{% if page.lang == 'he' %}צור קשר{% else %}Contact{% endif %}">
+          {% if page.lang == 'he' %}צור קשר{% else %}Contact{% endif %}
+        </a>
+      </div>
     </div>
   </div>
 </header>
@@ -29,4 +36,3 @@
     this.classList.toggle('is-active');
   });
 </script>
-

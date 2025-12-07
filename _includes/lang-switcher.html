@@ -1,17 +1,16 @@
-<div class="lang-switcher">
+<div class="lang-switcher" role="navigation" aria-label="{% if page.lang == 'he' %}בחירת שפה{% else %}Language selection{% endif %}">
   {% assign current_path = page.url | remove_first: '/en' | remove_first: '/he' %}
   {% if current_path == '' or current_path == '/' %}
     {% assign current_path = '/' %}
   {% endif %}
   
   {% if page.lang == 'he' %}
-    <a href="/en{{ current_path }}" class="lang-link" lang="en">EN</a>
-    <span class="lang-separator">|</span>
-    <span class="lang-current" lang="he">עב</span>
+    <a href="/en{{ current_path }}" class="lang-link" lang="en" hreflang="en" aria-label="Switch to English">EN</a>
+    <span class="lang-separator" aria-hidden="true">|</span>
+    <span class="lang-current" lang="he" aria-current="true">עב</span>
   {% else %}
-    <span class="lang-current" lang="en">EN</span>
-    <span class="lang-separator">|</span>
-    <a href="/he{{ current_path }}" class="lang-link" lang="he">עב</a>
+    <span class="lang-current" lang="en" aria-current="true">EN</span>
+    <span class="lang-separator" aria-hidden="true">|</span>
+    <a href="/he{{ current_path }}" class="lang-link" lang="he" hreflang="he" aria-label="עברית">עב</a>
   {% endif %}
 </div>
-

@@ -1,6 +1,7 @@
 ---
 layout: default
-title: אודות
+title: אודות ליטל בן אור
+description: "למידע על ליטל בן אור, מטפלת זוגית ופרטנית מוסמכת עם 15+ שנות ניסיון. מקבלת בצפון לונדון (N12), טיפול בעברית ובאנגלית."
 lang: he
 dir: rtl
 permalink: /he/about
@@ -14,7 +15,7 @@ permalink: /he/about
 
   <div class="page-content">
     <div class="about-portrait">
-      <img src="/assets/images/portrait.png" alt="ליטל בן אור - מטפלת">
+      <img src="/assets/images/portrait.png" alt="ליטל בן אור, מטפלת זוגית ופרטנית מוסמכת בצפון לונדון" width="300" height="300" loading="lazy">
     </div>
 
     <section class="content-section">
@@ -57,6 +58,18 @@ permalink: /he/about
         <li><strong>הכשרה בטיפול מיני</strong> — אוניברסיטת בר-אילן (2021–2022)</li>
         <li><strong>הכשרת EMDR</strong> — מטפלת EMDR מוסמכת</li>
       </ul>
+      <p>
+        <a href="/he/accreditations">לצפייה בהסמכות המלאות וחברויות מקצועיות ←</a>
+      </p>
+    </section>
+
+    <section class="content-section page-cta">
+      <h2>מוכנים להתחיל את המסע?</h2>
+      <p>אני מציעה מרחב חם וסודי לחקירת האתגרים שלכם. בין אם אתם יחידים או זוג, אני כאן לעזור.</p>
+      <div class="cta-buttons">
+        <a href="/he/services" class="btn btn--secondary">לשירותים</a>
+        <a href="/he/contact" class="btn btn--primary">לקביעת פגישה</a>
+      </div>
     </section>
   </div>
 </div>

@@ -1,25 +1,44 @@
 # Site Settings
-title: "Lital Ben Or Therapy"
-description: "Certified Couple & Individual Therapist • Psychosexual Therapy • EMDR"
+title: "Lital Ben Or – Couple & Individual Therapist"
+tagline: "Psychosexual Therapy | EMDR | North London"
+description: "Certified Couple & Individual Therapist in North London (N12). Specialising in couples therapy, psychosexual therapy, and EMDR. Sessions in English and Hebrew. Book a consultation today."
 url: "https://litalbenor.github.io"
 baseurl: ""
 lang: en
 
-# Author
+# Author / Therapist Info
 author:
   name: Lital Ben Or
   email: litalros@gmail.com
+  phone: "+447917923886"
+  title: "Certified Couple & Individual Therapist"
+  location: "North London, N12 8AG, UK"
+
+# SEO & Social
+keywords: "Lital Ben Or, couple therapist London, psychosexual therapist London, EMDR therapist North London, Hebrew speaking therapist London, couples therapy N12, relationship therapist London, sex therapist London, trauma therapist London"
+twitter:
+  username: litalbenor
+  card: summary_large_image
+logo: /assets/images/logo.png
+social:
+  name: Lital Ben Or
+  email: litalros@gmail.com
+  phone: "07917923886"
+  links:
+    - https://wa.me/447917923886
 
 # Build settings
 markdown: kramdown
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 # Exclude from build
 exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
+  - node_modules
 
 # Collections
 collections_dir: .
@@ -34,6 +53,7 @@ defaults:
       layout: "default"
       lang: "en"
       dir: "ltr"
+      image: /assets/images/logo.png
   # Hebrew pages
   - scope:
       path: "he"
@@ -42,9 +62,4 @@ defaults:
       layout: "default"
       lang: "he"
       dir: "rtl"
-
-# Social links (placeholders)
-social:
-  email: litalros@gmail.com
-  phone: "07917923886"
-
+      image: /assets/images/logo.png

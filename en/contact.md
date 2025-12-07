@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Contact
+description: "Book a therapy consultation with Lital Ben Or. Based in North London (N12). Contact via WhatsApp, phone, or email. I respond within 24 hours."
 lang: en
 dir: ltr
 permalink: /en/contact

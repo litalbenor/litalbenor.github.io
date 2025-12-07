@@ -388,12 +388,23 @@ body.rtl .lang-switcher {
   font-size: 0.9rem;
 }
 
+.footer-contact-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.footer-contact-list li {
+  margin-bottom: var(--space-xs);
+}
+
 .footer-contact a {
   color: var(--color-cream);
-  display: flex;
+  display: inline-flex;
   align-items: center;
   gap: 0.5rem;
-  margin-bottom: var(--space-xs);
+  text-decoration: none;
+  transition: color var(--transition-fast);
 }
 
 .footer-contact a:hover {
@@ -403,6 +414,32 @@ body.rtl .lang-switcher {
 .footer-location {
   color: var(--color-pink-light);
   font-size: 0.9rem;
+}
+
+.footer-location-text {
+  color: var(--color-turquoise-light);
+  font-size: 0.9rem;
+  margin-top: var(--space-sm);
+}
+
+.footer-links ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.footer-links li {
+  margin-bottom: var(--space-xs);
+}
+
+.footer-links a {
+  color: var(--color-cream);
+  text-decoration: none;
+  transition: color var(--transition-fast);
+}
+
+.footer-links a:hover {
+  color: var(--color-turquoise-light);
 }
 
 .footer-bottom {
@@ -987,12 +1024,271 @@ body.rtl .about-portrait {
 }
 
 /* --------------------------------------------------------------------------
+   Accessibility: Skip Link
+   -------------------------------------------------------------------------- */
+.skip-link {
+  position: absolute;
+  top: -100%;
+  left: 50%;
+  transform: translateX(-50%);
+  background: var(--color-purple-dark);
+  color: var(--color-white);
+  padding: var(--space-sm) var(--space-md);
+  border-radius: 0 0 4px 4px;
+  z-index: 1000;
+  text-decoration: none;
+  font-weight: 500;
+  transition: top var(--transition-fast);
+}
+
+.skip-link:focus {
+  top: 0;
+}
+
+/* --------------------------------------------------------------------------
+   Header CTA Button
+   -------------------------------------------------------------------------- */
+.header-actions {
+  display: flex;
+  align-items: center;
+  gap: var(--space-sm);
+}
+
+.btn--header {
+  display: none;
+  padding: var(--space-xs) var(--space-sm);
+  font-size: 0.85rem;
+  background: var(--color-turquoise);
+  color: var(--color-white);
+  border-radius: 4px;
+  text-decoration: none;
+  font-weight: 500;
+  transition: background var(--transition-fast);
+}
+
+.btn--header:hover {
+  background: var(--color-turquoise-dark);
+  color: var(--color-white);
+}
+
+@media screen and (min-width: 1000px) {
+  .btn--header {
+    display: inline-block;
+  }
+}
+
+/* --------------------------------------------------------------------------
+   Home Page Sections
+   -------------------------------------------------------------------------- */
+.home-services,
+.home-about,
+.home-location,
+.home-cta {
+  padding: var(--space-xl) 0;
+}
+
+.home-services {
+  background: var(--color-white);
+}
+
+.home-services h2,
+.home-about h2,
+.home-location h2,
+.home-cta h2 {
+  text-align: center;
+  margin-bottom: var(--space-lg);
+  color: var(--color-purple-dark);
+}
+
+.services-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: var(--space-md);
+  margin-bottom: var(--space-lg);
+}
+
+.service-preview {
+  background: var(--color-cream);
+  padding: var(--space-md);
+  border-radius: 8px;
+  border-left: 3px solid var(--color-turquoise);
+  transition: transform var(--transition-fast), box-shadow var(--transition-fast);
+}
+
+body.rtl .service-preview {
+  border-left: none;
+  border-right: 3px solid var(--color-turquoise);
+}
+
+.service-preview:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+.service-preview:nth-child(2) {
+  border-left-color: var(--color-purple);
+}
+body.rtl .service-preview:nth-child(2) {
+  border-right-color: var(--color-purple);
+}
+
+.service-preview:nth-child(3) {
+  border-left-color: var(--color-burgundy);
+}
+body.rtl .service-preview:nth-child(3) {
+  border-right-color: var(--color-burgundy);
+}
+
+.service-preview:nth-child(4) {
+  border-left-color: var(--color-green);
+}
+body.rtl .service-preview:nth-child(4) {
+  border-right-color: var(--color-green);
+}
+
+.service-preview h3 {
+  margin: 0 0 var(--space-xs);
+  font-size: 1.1rem;
+}
+
+.service-preview h3 a {
+  color: var(--color-charcoal);
+  text-decoration: none;
+}
+
+.service-preview h3 a:hover {
+  color: var(--color-purple-dark);
+}
+
+.service-preview p {
+  margin: 0;
+  font-size: 0.95rem;
+  color: var(--color-charcoal-light);
+}
+
+.services-cta {
+  text-align: center;
+  margin: 0;
+}
+
+.home-about,
+.home-location {
+  background: var(--color-cream-dark);
+}
+
+.home-about p,
+.home-location p {
+  text-align: center;
+}
+
+.home-cta {
+  background: linear-gradient(135deg, var(--color-purple) 0%, var(--color-burgundy) 100%);
+  color: var(--color-white);
+  text-align: center;
+}
+
+.home-cta h2 {
+  color: var(--color-white);
+}
+
+.home-cta p {
+  color: var(--color-pink-light);
+  margin-bottom: var(--space-md);
+}
+
+.cta-buttons {
+  display: flex;
+  justify-content: center;
+  gap: var(--space-sm);
+  flex-wrap: wrap;
+}
+
+.home-cta .btn--primary {
+  background: var(--color-turquoise);
+  border-color: var(--color-turquoise);
+}
+
+.home-cta .btn--primary:hover {
+  background: var(--color-turquoise-dark);
+  border-color: var(--color-turquoise-dark);
+}
+
+.home-cta .btn--secondary {
+  background: transparent;
+  color: var(--color-white);
+  border-color: var(--color-white);
+}
+
+.home-cta .btn--secondary:hover {
+  background: var(--color-white);
+  color: var(--color-purple-dark);
+}
+
+/* --------------------------------------------------------------------------
+   Page CTA Section (for inner pages)
+   -------------------------------------------------------------------------- */
+.page-cta {
+  background: var(--color-cream-dark);
+  padding: var(--space-lg);
+  border-radius: 8px;
+  text-align: center;
+  margin-top: var(--space-xl);
+}
+
+.page-cta h2 {
+  color: var(--color-purple-dark);
+  margin-bottom: var(--space-sm);
+}
+
+.page-cta p {
+  color: var(--color-charcoal);
+  margin-bottom: var(--space-md);
+}
+
+.page-cta .cta-buttons {
+  display: flex;
+  justify-content: center;
+  gap: var(--space-sm);
+  flex-wrap: wrap;
+}
+
+/* --------------------------------------------------------------------------
+   Article Images
+   -------------------------------------------------------------------------- */
+.article-image {
+  text-align: center;
+  margin: var(--space-lg) 0;
+}
+
+.article-image img {
+  max-width: 70%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+.article-image figcaption {
+  font-size: 0.9rem;
+  color: var(--color-warm-gray);
+  margin-top: var(--space-xs);
+  font-style: italic;
+}
+
+.article-date {
+  font-size: 0.9rem;
+  color: var(--color-warm-gray);
+  margin-bottom: var(--space-md);
+  font-style: italic;
+}
+
+/* --------------------------------------------------------------------------
    Print Styles
    -------------------------------------------------------------------------- */
 @media print {
   .site-header,
   .site-footer,
-  .lang-switcher {
+  .lang-switcher,
+  .skip-link {
     display: none;
   }
   

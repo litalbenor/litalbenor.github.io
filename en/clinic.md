@@ -1,6 +1,7 @@
 ---
 layout: default
 title: The Clinic
+description: "Visit my therapy clinic in North London (N12 8AG). Near Woodside Park Station. Free private parking. Comfortable, confidential space for couples and individual therapy."
 lang: en
 dir: ltr
 permalink: /en/clinic

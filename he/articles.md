@@ -1,6 +1,7 @@
 ---
 layout: default
-title: מאמרים
+title: מאמרים ומשאבים
+description: "תובנות על טיפול, זוגיות ובריאות נפשית מאת ליטל בן אור. למידע על EMDR, טיפול זוגי ורווחה רגשית."
 lang: he
 dir: rtl
 permalink: /he/articles
@@ -38,10 +39,10 @@ permalink: /he/articles
         כדי להבטיח את הטיפול היעיל ביותר, אני משתמשת בציוד EMDR מקצועי — ערכת <strong>EMDR Kit Wireless</strong> עם פולסטורים ואוזניות:
       </p>
       
-      <div style="text-align: center; margin: 2rem 0;">
-        <img src="/assets/images/emdr-kit.jpg" alt="EMDR Kit Wireless - פולסטורים ואוזניות" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
-        <p style="font-size: 0.9rem; color: #666; margin-top: 0.5rem;">ערכת EMDR Kit Wireless עם פולסטורים ואוזניות</p>
-      </div>
+      <figure class="article-image">
+        <img src="/assets/images/emdr-kit.jpg" alt="ערכת EMDR Kit Wireless עם פולסטורים ואוזניות לטיפול גירוי דו-צדדי אצל ליטל בן אור בצפון לונדון" width="600" height="400" loading="lazy">
+        <figcaption>ערכת EMDR Kit Wireless עם פולסטורים ואוזניות</figcaption>
+      </figure>
       
       <ul>
         <li><strong>פגישות פנים אל פנים:</strong> אני משתמשת בפולסטורים אלחוטיים — מכשירי רטט מקצועיים המוחזקים בכל יד ומספקים גירוי מישוש דו-צדדי עדין. זה מאפשר למטופלים לעצום עיניים ולהתמקד לחלוטין בעיבוד הפנימי שלהם ללא הסחות דעת.</li>
