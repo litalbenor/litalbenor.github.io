@@ -40,7 +40,7 @@ permalink: /en/about
     <section class="content-section">
       <h2>Professional Background</h2>
       <p>
-        Before relocating to the UK, I worked extensively in Israel's public sector and in legal social work, gaining valuable experience in complex family dynamics and trauma-informed care. This background has shaped my holistic understanding of the challenges individuals and couples face.
+        Before relocating to the UK, I spent 12 years working extensively in Israel's public sector, including ongoing work with the Ministry of Defence and the Rehabilitation Section. I also trained at a boutique specialist practice, where I gained extensive experience treating a diverse range of clients and cases under the supervision of senior therapists. Through these experiences, I developed valuable expertise in complex family dynamics and trauma-informed care. This background has shaped my holistic understanding of the challenges individuals and couples face.
       </p>
       <p>
         I continue to develop my professional skills through ongoing training and supervision, ensuring that I offer the highest standard of care to my clients.
