@@ -18,7 +18,7 @@ permalink: /en/contact
         Taking the first step towards therapy can feel daunting, but you don't have to do it alone. Whether you have questions about my services or would like to arrange an initial consultation, please don't hesitate to reach out.
       </p>
       <p>
-        I typically respond within 24–48 hours.
+        I typically respond within 24 hours.
       </p>
     </section>
 

@@ -43,9 +43,11 @@ permalink: /en/accreditations
 
     <section class="content-section">
       <h2>Professional Memberships</h2>
-      <p>
-        [Placeholder for professional body memberships — e.g., BACP, UKCP, COSRT, or other relevant organisations]
-      </p>
+      <ul class="accreditation-list">
+        <li><strong>Member of the Israeli Association for Couple and Family Therapy</strong><br>Certified Couple & Family Therapist (Certification No. 7113)</li>
+        <li><strong>Member of the Israel Association of Social Workers</strong></li>
+        <li><strong>Member of the Israeli Sexual Therapy Programme Alumni Network</strong><br>(Bar-Ilan University Continuing Education Unit)</li>
+      </ul>
     </section>
   </div>
 </div>

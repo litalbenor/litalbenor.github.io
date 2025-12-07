@@ -43,9 +43,11 @@ permalink: /he/accreditations
 
     <section class="content-section">
       <h2>חברות בארגונים מקצועיים</h2>
-      <p>
-        [מקום לחברות בגופים מקצועיים — למשל, BACP, UKCP, COSRT, או ארגונים רלוונטיים אחרים]
-      </p>
+      <ul class="accreditation-list">
+        <li><strong>חברה באגודה הישראלית לטיפול זוגי ומשפחתי</strong><br>מטפלת זוגית ומשפחתית מוסמכת (תעודה מס׳ 7113)</li>
+        <li><strong>חברה באיגוד העובדים הסוציאליים בישראל</strong></li>
+        <li><strong>חברה ברשת בוגרי התוכנית לטיפול מיני</strong><br>(יחידת ההשתלמויות, אוניברסיטת בר-אילן)</li>
+      </ul>
     </section>
   </div>
 </div>
