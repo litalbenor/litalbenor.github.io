@@ -23,7 +23,7 @@ permalink: /en/about
         I am a certified couple and individual therapist based in North London (N12), offering therapy in both English and Hebrew. With over 15 years of clinical experience, I provide a warm, non-judgmental space where clients can explore their challenges and find their path forward.
       </p>
       <p>
-        My practice focuses on helping individuals and couples navigate relationship difficulties, intimacy issues, trauma, and emotional distress. I believe that meaningful change happens within a safe and trusting therapeutic relationship.
+        My practice focuses on helping individuals and couples navigate relationship difficulties, intimacy and sexual issues, anxiety, trauma, and emotional distress. I believe that meaningful change occurs within a safe and trusting therapeutic relationship.
       </p>
     </section>
 
