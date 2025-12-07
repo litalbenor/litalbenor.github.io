@@ -2,8 +2,11 @@
   <div class="container">
     <div class="header-inner">
       <a href="{% if page.lang == 'he' %}/he/{% else %}/en/{% endif %}" class="site-logo">
-        <span class="logo-text">Lital Ben Or</span>
-        <span class="logo-subtitle">{% if page.lang == 'he' %}מטפלת זוגית ופרטנית{% else %}Therapy{% endif %}</span>
+        <img src="/assets/images/logo.png" alt="Lital Ben Or" class="logo-image">
+        <div class="logo-text-wrapper">
+          <span class="logo-text">Lital Ben Or</span>
+          <span class="logo-subtitle">{% if page.lang == 'he' %}מטפלת זוגית ופרטנית{% else %}Therapy{% endif %}</span>
+        </div>
       </a>
       
       <button class="mobile-menu-toggle" aria-label="Toggle menu" aria-expanded="false">
