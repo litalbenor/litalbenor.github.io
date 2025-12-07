@@ -31,15 +31,6 @@ permalink: /he/clinic
     </section>
 
     <section class="content-section">
-      <h2>מיקום</h2>
-      <div class="location-box">
-        <p>
-          <strong>כתובת:</strong> <a href="https://maps.google.com/?q=N12+8AG,+London,+UK" target="_blank" rel="noopener">N12 8AG</a>
-        </p>
-      </div>
-    </section>
-
-    <section class="content-section">
       <h2>הגעה לקליניקה</h2>
       
       <h3>ברכבת תחתית</h3>
@@ -54,14 +45,14 @@ permalink: /he/clinic
       
       <h3>ברכב</h3>
       <p>
-        <strong>חנייה פרטית חינמית</strong> זמינה בקליניקה (2 מקומות). חנייה חינמית נוספת ברחוב זמינה גם ברחובות המגורים הסמוכים.
+        <strong>חנייה פרטית חינמית</strong> זמינה בקליניקה (2 מקומות).
       </p>
     </section>
 
     <section class="content-section">
       <h2>נגישות</h2>
       <p>
-        שימו לב שיש מספר מדרגות בכניסה לקליניקה. אם יש לכם מגבלות ניידות, אנא צרו איתי קשר מראש כדי שנוכל לדון כיצד להתאים לצרכים שלכם, או לשקול פגישות אונליין כחלופה.
+        יש חמש מדרגות בכניסה לקליניקה. אם תרצו להימנע ממדרגות או זקוקים לגישה ללא מדרגות, אשמח לדון בחלופות נוחות, כולל פגישות אונליין.
       </p>
     </section>
 
@@ -70,6 +61,22 @@ permalink: /he/clinic
       <p>
         אם אתם מעדיפים להיפגש באונליין או שאינכם יכולים להגיע לקליניקה, אני מציעה פגישות וידאו מאובטחות. טיפול אונליין מספק את אותה איכות טיפול וסודיות כמו פגישות פנים אל פנים.
       </p>
+    </section>
+
+    <section class="content-section">
+      <h2>מיקום</h2>
+      <p>צפון לונדון, N12 8AG</p>
+      <div class="map-container">
+        <iframe 
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2479.8!2d-0.1834!3d51.6184!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761945a6a7b9a7%3A0x7b0b0b0b0b0b0b0b!2sN12%208AG%2C%20London!5e0!3m2!1sen!2suk!4v1700000000000"
+          width="100%" 
+          height="350" 
+          style="border:0; border-radius: 8px;" 
+          allowfullscreen="" 
+          loading="lazy" 
+          referrerpolicy="no-referrer-when-downgrade">
+        </iframe>
+      </div>
     </section>
   </div>
 </div>

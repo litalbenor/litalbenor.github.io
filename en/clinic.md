@@ -31,15 +31,6 @@ permalink: /en/clinic
     </section>
 
     <section class="content-section">
-      <h2>Location</h2>
-      <div class="location-box">
-        <p>
-          <strong>Address:</strong> <a href="https://maps.google.com/?q=N12+8AG,+London,+UK" target="_blank" rel="noopener">N12 8AG, United Kingdom</a>
-        </p>
-      </div>
-    </section>
-
-    <section class="content-section">
       <h2>Getting Here</h2>
       
       <h3>By Underground</h3>
@@ -54,14 +45,14 @@ permalink: /en/clinic
       
       <h3>By Car</h3>
       <p>
-        <strong>Free private parking</strong> is available at the clinic (2 spaces). Additional free street parking is also available in the surrounding residential streets.
+        <strong>Free private parking</strong> is available at the clinic (2 spaces).
       </p>
     </section>
 
     <section class="content-section">
       <h2>Accessibility</h2>
       <p>
-        Please note that there are a few stairs at the entrance to the clinic. If you have mobility concerns, please contact me in advance so we can discuss how best to accommodate your needs, or consider online sessions as an alternative.
+        There are just five steps at the entrance to the clinic. If you would like to avoid stairs or require step-free access, I’m happy to discuss comfortable alternatives, including online sessions.
       </p>
     </section>
 
@@ -70,6 +61,22 @@ permalink: /en/clinic
       <p>
         If you prefer to meet online or are unable to travel to the clinic, I offer secure video sessions. Online therapy provides the same quality of care and confidentiality as in-person sessions.
       </p>
+    </section>
+
+    <section class="content-section">
+      <h2>Location</h2>
+      <p>North London, N12 8AG</p>
+      <div class="map-container">
+        <iframe 
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2479.8!2d-0.1834!3d51.6184!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761945a6a7b9a7%3A0x7b0b0b0b0b0b0b0b!2sN12%208AG%2C%20London!5e0!3m2!1sen!2suk!4v1700000000000"
+          width="100%" 
+          height="350" 
+          style="border:0; border-radius: 8px;" 
+          allowfullscreen="" 
+          loading="lazy" 
+          referrerpolicy="no-referrer-when-downgrade">
+        </iframe>
+      </div>
     </section>
   </div>
 </div>

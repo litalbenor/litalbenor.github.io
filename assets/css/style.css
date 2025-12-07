@@ -697,6 +697,18 @@ body.rtl .accreditation-list li::before {
   color: var(--color-purple-dark);
 }
 
+/* Map Container */
+.map-container {
+  margin-top: var(--space-md);
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 10px rgba(107, 91, 122, 0.15);
+}
+
+.map-container iframe {
+  display: block;
+}
+
 /* Articles List */
 .articles-list {
   list-style: none;
