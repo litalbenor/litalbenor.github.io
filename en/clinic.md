@@ -31,7 +31,7 @@ permalink: /en/clinic
       <h2>Location</h2>
       <div class="location-box">
         <p>
-          <strong>Address:</strong> North London, N12 8AG, United Kingdom
+          <strong>Address:</strong> <a href="https://maps.google.com/?q=34+Gainsborough+Road,+London+N12+8AG" target="_blank" rel="noopener">34 Gainsborough Road, London N12 8AG, United Kingdom</a>
         </p>
       </div>
     </section>

@@ -57,7 +57,7 @@ permalink: /en/contact
               <path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/>
             </svg>
           </span>
-          <span class="contact-link">North London, N12 8AG, UK</span>
+          <a href="https://maps.google.com/?q=34+Gainsborough+Road,+London+N12+8AG" class="contact-link" target="_blank" rel="noopener">34 Gainsborough Road, London N12 8AG</a>
         </div>
       </div>
     </section>
@@ -90,7 +90,7 @@ permalink: /en/contact
       <h2>Session Information</h2>
       <p>
         <strong>Session length:</strong> 50 minutes<br>
-        <strong>Location:</strong> North London (N12 8AG) or Online<br>
+        <strong>Location:</strong> <a href="https://maps.google.com/?q=34+Gainsborough+Road,+London+N12+8AG" target="_blank" rel="noopener">34 Gainsborough Road, N12 8AG</a> or Online<br>
         <strong>Languages:</strong> English and Hebrew
       </p>
       <p>
