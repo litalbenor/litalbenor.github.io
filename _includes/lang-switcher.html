@@ -1,0 +1,17 @@
+<div class="lang-switcher">
+  {% assign current_path = page.url | remove_first: '/en' | remove_first: '/he' %}
+  {% if current_path == '' or current_path == '/' %}
+    {% assign current_path = '/' %}
+  {% endif %}
+  
+  {% if page.lang == 'he' %}
+    <a href="/en{{ current_path }}" class="lang-link" lang="en">EN</a>
+    <span class="lang-separator">|</span>
+    <span class="lang-current" lang="he">עב</span>
+  {% else %}
+    <span class="lang-current" lang="en">EN</span>
+    <span class="lang-separator">|</span>
+    <a href="/he{{ current_path }}" class="lang-link" lang="he">עב</a>
+  {% endif %}
+</div>
+

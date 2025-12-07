@@ -1,0 +1,50 @@
+# Site Settings
+title: "Lital Ben Or Therapy"
+description: "Certified Couple & Individual Therapist • Psychosexual Therapy • EMDR"
+url: "https://litalbenor.github.io"
+baseurl: ""
+lang: en
+
+# Author
+author:
+  name: Lital Ben Or
+  email: litalros@gmail.com
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
+
+# Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+
+# Collections
+collections_dir: .
+
+# Defaults for pages
+defaults:
+  # English pages
+  - scope:
+      path: "en"
+      type: "pages"
+    values:
+      layout: "default"
+      lang: "en"
+      dir: "ltr"
+  # Hebrew pages
+  - scope:
+      path: "he"
+      type: "pages"
+    values:
+      layout: "default"
+      lang: "he"
+      dir: "rtl"
+
+# Social links (placeholders)
+social:
+  email: litalros@gmail.com
+  phone: "07917923886"
+

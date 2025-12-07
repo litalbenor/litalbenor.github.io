@@ -1,0 +1,22 @@
+<nav class="site-nav">
+  <ul class="nav-list">
+    {% if page.lang == 'he' %}
+    <li class="nav-item"><a href="/he/" class="nav-link{% if page.url == '/he/' or page.url == '/he/index.html' %} is-active{% endif %}">בית</a></li>
+    <li class="nav-item"><a href="/he/about" class="nav-link{% if page.url contains '/he/about' %} is-active{% endif %}">אודות</a></li>
+    <li class="nav-item"><a href="/he/services" class="nav-link{% if page.url contains '/he/services' %} is-active{% endif %}">שירותים</a></li>
+    <li class="nav-item"><a href="/he/accreditations" class="nav-link{% if page.url contains '/he/accreditations' %} is-active{% endif %}">הסמכות</a></li>
+    <li class="nav-item"><a href="/he/clinic" class="nav-link{% if page.url contains '/he/clinic' %} is-active{% endif %}">הקליניקה</a></li>
+    <li class="nav-item"><a href="/he/articles" class="nav-link{% if page.url contains '/he/articles' %} is-active{% endif %}">מאמרים</a></li>
+    <li class="nav-item"><a href="/he/contact" class="nav-link{% if page.url contains '/he/contact' %} is-active{% endif %}">צור קשר</a></li>
+    {% else %}
+    <li class="nav-item"><a href="/en/" class="nav-link{% if page.url == '/en/' or page.url == '/en/index.html' %} is-active{% endif %}">Home</a></li>
+    <li class="nav-item"><a href="/en/about" class="nav-link{% if page.url contains '/en/about' %} is-active{% endif %}">About</a></li>
+    <li class="nav-item"><a href="/en/services" class="nav-link{% if page.url contains '/en/services' %} is-active{% endif %}">Services</a></li>
+    <li class="nav-item"><a href="/en/accreditations" class="nav-link{% if page.url contains '/en/accreditations' %} is-active{% endif %}">Accreditations</a></li>
+    <li class="nav-item"><a href="/en/clinic" class="nav-link{% if page.url contains '/en/clinic' %} is-active{% endif %}">Clinic</a></li>
+    <li class="nav-item"><a href="/en/articles" class="nav-link{% if page.url contains '/en/articles' %} is-active{% endif %}">Articles</a></li>
+    <li class="nav-item"><a href="/en/contact" class="nav-link{% if page.url contains '/en/contact' %} is-active{% endif %}">Contact</a></li>
+    {% endif %}
+  </ul>
+</nav>
+
