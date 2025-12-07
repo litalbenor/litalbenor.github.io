@@ -29,22 +29,29 @@ permalink: /en/clinic
 
     <section class="content-section">
       <h2>Location</h2>
-      <p>
-        <strong>North London, N12</strong><br>
-        [Full address to be added]
-      </p>
+      <div class="location-box">
+        <p>
+          <strong>Address:</strong> North London, N12 8AG, United Kingdom
+        </p>
+      </div>
     </section>
 
     <section class="content-section">
       <h2>Getting Here</h2>
-      <h3>By Public Transport</h3>
+      
+      <h3>By Underground</h3>
       <p>
-        [Placeholder: Information about nearest tube station, bus routes, and walking directions to be added]
+        <strong>Woodside Park Station</strong> (Northern Line) — The clinic is a short walk from the station.
+      </p>
+      
+      <h3>By Bus</h3>
+      <p>
+        <strong>North Finchley Bus Station</strong> — Multiple bus routes serve this area, making it easily accessible from across North London.
       </p>
       
       <h3>By Car</h3>
       <p>
-        [Placeholder: Parking information to be added — e.g., free street parking available, nearby car parks]
+        Free street parking is available in the surrounding residential streets. [Additional parking information to be added]
       </p>
     </section>
 
@@ -63,4 +70,3 @@ permalink: /en/clinic
     </section>
   </div>
 </div>
-
