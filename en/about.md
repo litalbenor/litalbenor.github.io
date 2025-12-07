@@ -14,9 +14,7 @@ permalink: /en/about
 
   <div class="page-content">
     <div class="about-portrait">
-      <div class="portrait-placeholder">
-        [Portrait photo placeholder]
-      </div>
+      <img src="/assets/images/portrait.png" alt="Lital Ben Or - Therapist">
     </div>
 
     <section class="content-section">

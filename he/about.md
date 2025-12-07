@@ -14,9 +14,7 @@ permalink: /he/about
 
   <div class="page-content">
     <div class="about-portrait">
-      <div class="portrait-placeholder">
-        [מקום לתמונת פורטרט]
-      </div>
+      <img src="/assets/images/portrait.png" alt="ליטל בן אור - מטפלת">
     </div>
 
     <section class="content-section">
