@@ -31,7 +31,7 @@ permalink: /he/clinic
       <h2>מיקום</h2>
       <div class="location-box">
         <p>
-          <strong>כתובת:</strong> <a href="https://maps.google.com/?q=34+Gainsborough+Road,+London+N12+8AG" target="_blank" rel="noopener">34D Gainsborough Road, London N12 8AG</a>
+          <strong>כתובת:</strong> <a href="https://maps.google.com/?q=N12+8AG,+London,+UK" target="_blank" rel="noopener">N12 8AG</a>
         </p>
       </div>
     </section>
