@@ -11,10 +11,17 @@
   <li class="nav-item" role="none"><a href="/he/contact" role="menuitem" class="nav-link{% if page.url contains '/he/contact' %} is-active" aria-current="page{% endif %}">צור קשר</a></li>
   {% else %}
   <li class="nav-item" role="none"><a href="/en/about" role="menuitem" class="nav-link{% if page.url contains '/en/about' %} is-active" aria-current="page{% endif %}">About</a></li>
-  <li class="nav-item" role="none"><a href="/en/individual-therapy" role="menuitem" class="nav-link{% if page.url contains '/en/individual-therapy' %} is-active" aria-current="page{% endif %}">Individual Therapy</a></li>
-  <li class="nav-item" role="none"><a href="/en/couples-therapy" role="menuitem" class="nav-link{% if page.url contains '/en/couples-therapy' %} is-active" aria-current="page{% endif %}">Couples Therapy</a></li>
-  <li class="nav-item" role="none"><a href="/en/psychosexual-therapy" role="menuitem" class="nav-link{% if page.url contains '/en/psychosexual-therapy' %} is-active" aria-current="page{% endif %}">Psychosexual Therapy</a></li>
-  <li class="nav-item" role="none"><a href="/en/emdr" role="menuitem" class="nav-link{% if page.url contains '/en/emdr' %} is-active" aria-current="page{% endif %}">EMDR</a></li>
+  <li class="nav-item nav-item--dropdown" role="none">
+    <button class="nav-link nav-dropdown-toggle" aria-expanded="false" aria-haspopup="true">
+      Therapy <svg class="dropdown-arrow" width="10" height="6" viewBox="0 0 10 6" fill="currentColor"><path d="M1 1l4 4 4-4"/></svg>
+    </button>
+    <ul class="nav-dropdown" role="menu">
+      <li role="none"><a href="/en/individual-therapy" role="menuitem" class="nav-dropdown-link{% if page.url contains '/en/individual-therapy' %} is-active{% endif %}">Individual</a></li>
+      <li role="none"><a href="/en/couples-therapy" role="menuitem" class="nav-dropdown-link{% if page.url contains '/en/couples-therapy' %} is-active{% endif %}">Couples</a></li>
+      <li role="none"><a href="/en/psychosexual-therapy" role="menuitem" class="nav-dropdown-link{% if page.url contains '/en/psychosexual-therapy' %} is-active{% endif %}">Psychosexual</a></li>
+      <li role="none"><a href="/en/emdr" role="menuitem" class="nav-dropdown-link{% if page.url contains '/en/emdr' %} is-active{% endif %}">EMDR</a></li>
+    </ul>
+  </li>
   <li class="nav-item" role="none"><a href="/en/clinic" role="menuitem" class="nav-link{% if page.url contains '/en/clinic' %} is-active" aria-current="page{% endif %}">Clinic</a></li>
   <li class="nav-item" role="none"><a href="/en/articles" role="menuitem" class="nav-link{% if page.url contains '/en/articles' %} is-active" aria-current="page{% endif %}">Articles</a></li>
   <li class="nav-item" role="none"><a href="/en/contact" role="menuitem" class="nav-link{% if page.url contains '/en/contact' %} is-active" aria-current="page{% endif %}">Contact</a></li>
