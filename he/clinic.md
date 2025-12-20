@@ -15,7 +15,7 @@ permalink: /he/clinic
 
   <div class="page-content">
     <div class="clinic-image">
-      [מקום לתמונת הקליניקה]
+      <img src="/assets/images/clinic.jpg" alt="הקליניקה של ליטל בן אור - מרחב שקט ופרטי בצפון לונדון" />
     </div>
 
     <section class="content-section">

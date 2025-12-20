@@ -15,7 +15,7 @@ permalink: /en/clinic
 
   <div class="page-content">
     <div class="clinic-image">
-      [Clinic photo placeholder]
+      <img src="/assets/images/clinic.jpg" alt="Lital Ben Or's therapy clinic - a calm, private space in North London" />
     </div>
 
     <section class="content-section">
