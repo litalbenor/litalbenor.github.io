@@ -39,12 +39,26 @@ permalink: /en/about
     </section>
 
     <section class="content-section">
-      <h2>Professional Background</h2>
+      <h2>Professional Experience</h2>
+      
+      <h3>Individual & Couples Therapist — Private Institute "Machon Zugot" (Dr. Yael Doron)</h3>
       <p>
-        Before relocating to the UK, I spent 12 years working extensively in Israel's public sector, including ongoing work with the Ministry of Defence and the Rehabilitation Section. I also trained at a boutique specialist practice, where I gained extensive experience treating a diverse range of clients and cases under the supervision of senior therapists. Through these experiences, I developed valuable expertise in complex family dynamics and trauma-informed care. This background has shaped my holistic understanding of the challenges individuals and couples face.
+        Working with individuals, couples, and families across a wide range of relational and life challenges. My work included supporting individuals in the process of finding and forming intimate relationships, helping couples navigate conflict and communication difficulties, and working with families facing illness, bereavement, trauma, and major life transitions. Therapy is tailored to each person's emotional and relational needs, with an emphasis on safety, connection, and resilience.
       </p>
+
+      <h3>Couples and Family Therapist</h3>
       <p>
-        I continue to develop my professional skills through ongoing training and supervision, ensuring that I offer the highest standard of care to my clients.
+        Providing therapy to couples experiencing marital crises and life transitions. My work includes supporting families with special needs, offering parenting therapy and parental guidance, working with addiction-related challenges, processing grief and loss, and supporting emotional regulation and anger management.
+      </p>
+
+      <h3>Family Court Social Worker</h3>
+      <p>
+        Working with families during separation and divorce processes. This role involved individual, couple, and family sessions with parents and children, working on family interactions, providing parental guidance.
+      </p>
+
+      <h3>Family Social Worker</h3>
+      <p>
+        Providing therapeutic support to families in distress and children at risk through individual therapy, parental guidance, and facilitation of parenting support groups.
       </p>
     </section>
 
@@ -58,9 +72,6 @@ permalink: /en/about
         <li><strong>Sexual Therapy Training</strong> — Bar-Ilan University</li>
         <li><strong>EMDR Training</strong> — Certified EMDR Practitioner</li>
       </ul>
-      <p>
-        <a href="/en/accreditations">View my full accreditations and professional memberships →</a>
-      </p>
     </section>
 
     <section class="content-section page-cta">
@@ -73,4 +84,3 @@ permalink: /en/about
     </section>
   </div>
 </div>
-
