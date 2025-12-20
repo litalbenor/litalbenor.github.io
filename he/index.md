@@ -27,25 +27,22 @@ image: /assets/images/logo.png
     <h2 id="services-heading">איך אני יכולה לעזור</h2>
     <div class="services-grid">
       <div class="service-preview">
-        <h3><a href="/he/services#couples-therapy">טיפול זוגי</a></h3>
+        <h3><a href="/he/couples-therapy">טיפול זוגי</a></h3>
         <p>שיפור תקשורת, פתרון קונפליקטים ובניית קשר מחודש עם ליווי מקצועי.</p>
       </div>
       <div class="service-preview">
-        <h3><a href="/he/services#individual-therapy">טיפול פרטני</a></h3>
+        <h3><a href="/he/individual-therapy">טיפול פרטני</a></h3>
         <p>חקירת אתגרים אישיים, פיתוח אסטרטגיות התמודדות וטיפוח צמיחה במרחב סודי.</p>
       </div>
       <div class="service-preview">
-        <h3><a href="/he/services#psychosexual-therapy">טיפול פסיכו-מיני</a></h3>
+        <h3><a href="/he/psychosexual-therapy">טיפול פסיכו-מיני</a></h3>
         <p>התמודדות עם קשיים באינטימיות ובמיניות ברגישות ומקצועיות.</p>
       </div>
       <div class="service-preview">
-        <h3><a href="/he/services#emdr-therapy">טיפול טראומה EMDR</a></h3>
+        <h3><a href="/he/emdr">טיפול טראומה EMDR</a></h3>
         <p>עיבוד זיכרונות טראומטיים והפחתת ההשפעה הרגשית שלהם בשיטת EMDR מבוססת מחקר.</p>
       </div>
     </div>
-    <p class="services-cta">
-      <a href="/he/services" class="btn btn--secondary">לכל השירותים</a>
-    </p>
   </div>
 </section>
 
@@ -71,7 +68,7 @@ image: /assets/images/logo.png
       הקליניקה שלי ממוקמת באזור מגורים שקט ב<strong>צפון לונדון, N12</strong>, ליד תחנת Woodside Park (קו Northern) ותחנת האוטובוסים North Finchley. חנייה פרטית חינמית זמינה.
     </p>
     <p>
-      <strong>לא יכולים להגיע פיזית?</strong> אני מציעה גם <a href="/he/services#online-therapy">פגישות טיפול אונליין מאובטחות</a> בשיחת וידאו.
+      <strong>לא יכולים להגיע פיזית?</strong> אני מציעה גם פגישות טיפול אונליין מאובטחות בשיחת וידאו.
     </p>
     <p>
       <a href="/he/clinic">לפרטי הקליניקה והוראות הגעה ←</a>

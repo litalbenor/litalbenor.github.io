@@ -27,25 +27,22 @@ image: /assets/images/logo.png
     <h2 id="services-heading">How I Can Help</h2>
     <div class="services-grid">
       <div class="service-preview">
-        <h3><a href="/en/services#couples-therapy">Couples Therapy</a></h3>
+        <h3><a href="/en/couples-therapy">Couples Therapy</a></h3>
         <p>Improve communication, resolve conflicts, and rebuild your connection with professional relationship support.</p>
       </div>
       <div class="service-preview">
-        <h3><a href="/en/services#individual-therapy">Individual Therapy</a></h3>
+        <h3><a href="/en/individual-therapy">Individual Therapy</a></h3>
         <p>Explore personal challenges, develop coping strategies, and foster growth in a confidential space.</p>
       </div>
       <div class="service-preview">
-        <h3><a href="/en/services#psychosexual-therapy">Psychosexual Therapy</a></h3>
+        <h3><a href="/en/psychosexual-therapy">Psychosexual Therapy</a></h3>
         <p>Address intimacy concerns and sexual difficulties with sensitivity and expertise.</p>
       </div>
       <div class="service-preview">
-        <h3><a href="/en/services#emdr-therapy">EMDR Trauma Therapy</a></h3>
+        <h3><a href="/en/emdr">EMDR Trauma Therapy</a></h3>
         <p>Process traumatic memories and reduce their emotional impact with evidence-based EMDR.</p>
       </div>
     </div>
-    <p class="services-cta">
-      <a href="/en/services" class="btn btn--secondary">View All Services</a>
-    </p>
   </div>
 </section>
 
@@ -71,7 +68,7 @@ image: /assets/images/logo.png
       My clinic is located in a quiet residential area of <strong>North London, N12</strong>, near Woodside Park Station (Northern Line) and North Finchley Bus Station. Free private parking is available.
     </p>
     <p>
-      <strong>Can't visit in person?</strong> I also offer <a href="/en/services#online-therapy">secure online therapy sessions</a> via video call.
+      <strong>Can't visit in person?</strong> I also offer secure online therapy sessions via video call.
     </p>
     <p>
       <a href="/en/clinic">View clinic details and directions →</a>

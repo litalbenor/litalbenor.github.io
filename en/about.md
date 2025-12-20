@@ -78,7 +78,7 @@ permalink: /en/about
       <h2>Ready to Start Your Journey?</h2>
       <p>I offer a warm, confidential space to explore your challenges. Whether you're an individual or a couple, I'm here to help.</p>
       <div class="cta-buttons">
-        <a href="/en/services" class="btn btn--secondary">View Services</a>
+        <a href="/en/couples-therapy" class="btn btn--secondary">Couples Therapy</a>
         <a href="/en/contact" class="btn btn--primary">Book a Consultation</a>
       </div>
     </section>

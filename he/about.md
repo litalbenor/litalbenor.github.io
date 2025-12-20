@@ -78,7 +78,7 @@ permalink: /he/about
       <h2>מוכנים להתחיל את המסע?</h2>
       <p>אני מציעה מרחב חם וסודי לחקירת האתגרים שלכם. בין אם אתם יחידים או זוג, אני כאן לעזור.</p>
       <div class="cta-buttons">
-        <a href="/he/services" class="btn btn--secondary">לשירותים</a>
+        <a href="/he/couples-therapy" class="btn btn--secondary">טיפול זוגי</a>
         <a href="/he/contact" class="btn btn--primary">לקביעת פגישה</a>
       </div>
     </section>
