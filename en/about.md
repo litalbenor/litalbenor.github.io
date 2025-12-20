@@ -51,11 +51,11 @@ permalink: /en/about
     <section class="content-section">
       <h2>Training & Education</h2>
       <ul>
-        <li><strong>M.S.W.</strong> — Tel Aviv University (2012)</li>
-        <li><strong>B.A. Social Work</strong> (Magna Cum Laude) — Bar-Ilan University (2010)</li>
-        <li><strong>B.Sc. Life Sciences</strong> — Ben-Gurion University (2005)</li>
-        <li><strong>Certified Couple & Family Therapist</strong> (2021)</li>
-        <li><strong>Sexual Therapy Training</strong> — Bar-Ilan University (2021–2022)</li>
+        <li><strong>M.S.W.</strong> — Tel Aviv University</li>
+        <li><strong>B.A. Social Work</strong> — Bar-Ilan University</li>
+        <li><strong>B.Sc. Life Sciences</strong> — Ben-Gurion University</li>
+        <li><strong>Certified Couple & Family Therapist</strong></li>
+        <li><strong>Sexual Therapy Training</strong> — Bar-Ilan University</li>
         <li><strong>EMDR Training</strong> — Certified EMDR Practitioner</li>
       </ul>
       <p>

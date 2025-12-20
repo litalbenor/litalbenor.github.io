@@ -36,18 +36,9 @@ permalink: /en/accreditations
       <h2>Professional Experience</h2>
       <ul class="accreditation-list">
         <li>Over 15 years of clinical experience</li>
-        <li>Extensive work in Israel's public health sector</li>
-        <li>Experience in legal social work and family court settings</li>
         <li>Private practice in North London</li>
-      </ul>
-    </section>
-
-    <section class="content-section">
-      <h2>Professional Memberships</h2>
-      <ul class="accreditation-list">
-        <li><strong>Member of the Israeli Association for Couple and Family Therapy</strong><br>Certified Couple & Family Therapist (Certification No. 7113)</li>
-        <li><strong>Member of the Israel Association of Social Workers</strong></li>
-        <li><strong>Member of the Israeli Sexual Therapy Programme Alumni Network</strong><br>(Bar-Ilan University Continuing Education Unit)</li>
+        <li>Private practice in Israel</li>
+        <li>12 years working in Israel's public welfare sector</li>
       </ul>
     </section>
   </div>
