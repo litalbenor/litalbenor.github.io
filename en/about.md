@@ -24,7 +24,7 @@ permalink: /en/about
         I am a certified couple and individual therapist based in North London (N12), offering therapy in both English and Hebrew. With over 15 years of clinical experience, I provide a warm, non-judgmental space where clients can explore their challenges and find their path forward.
       </p>
       <p>
-        My practice focuses on helping individuals and couples navigate relationship difficulties, intimacy and sexual concerns, anxiety, trauma, and emotional distress. I believe that meaningful change occurs within a safe and trusting therapeutic relationship.
+        My practice supports individuals and couples as they navigate relationship challenges and conflicts, difficulties around intimacy and sexuality, life crises, anxiety, trauma, and emotional distress. I believe that meaningful change emerges within a safe and trusting therapeutic relationship.
       </p>
     </section>
 
@@ -41,12 +41,17 @@ permalink: /en/about
     <section class="content-section">
       <h2>Professional Experience</h2>
       
+      <h3>Private Clinic</h3>
+      <p>
+        I work with individuals, couples, and families, including LGBTQ clients experiencing a wide range of emotional and relational challenges, including life crises, trauma, bereavement, anxiety, and depression. Alongside my clinical work, I also support clients referred through the Ministry of Defence, Rehabilitation Department, working with complex trauma and its impact on personal, relational, and family life.
+      </p>
+
       <h3>Individual & Couples Therapist — Private Institute "Machon Zugot" (Dr. Yael Doron)</h3>
       <p>
         Working with individuals, couples, and families across a wide range of relational and life challenges. My work included supporting individuals in the process of finding and forming intimate relationships, helping couples navigate conflict and communication difficulties, and working with families facing illness, bereavement, trauma, and major life transitions. Therapy is tailored to each person's emotional and relational needs, with an emphasis on safety, connection, and resilience.
       </p>
 
-      <h3>Couples and Family Therapist</h3>
+      <h3>Individual, Couples and Family Therapist</h3>
       <p>
         Providing therapy to couples experiencing marital crises and life transitions. My work includes supporting families with special needs, offering parenting therapy and parental guidance, working with addiction-related challenges, processing grief and loss, and supporting emotional regulation and anger management.
       </p>
@@ -63,11 +68,17 @@ permalink: /en/about
     </section>
 
     <section class="content-section">
-      <h2>Training & Education</h2>
+      <h2>Education & Training</h2>
+      
+      <h3>Education</h3>
       <ul>
         <li><strong>M.S.W.</strong> — Tel Aviv University</li>
         <li><strong>B.A. Social Work</strong> — Bar-Ilan University</li>
         <li><strong>B.Sc. Life Sciences</strong> — Ben-Gurion University</li>
+      </ul>
+
+      <h3>Training</h3>
+      <ul>
         <li><strong>Certified Couple & Family Therapist</strong></li>
         <li><strong>Sexual Therapy Training</strong> — Bar-Ilan University</li>
         <li><strong>EMDR Training</strong> — Certified EMDR Practitioner</li>
