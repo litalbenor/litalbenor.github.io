@@ -71,6 +71,10 @@ permalink: /en/about
         <li><strong>Certified Couple & Family Therapist</strong></li>
         <li><strong>Sexual Therapy Training</strong> — Bar-Ilan University</li>
         <li><strong>EMDR Training</strong> — Certified EMDR Practitioner</li>
+        <li><strong>Parenting Therapy</strong> — Specialist training in working with single-parent families through the Ministry of Health, at the Centre for the Training of Psychologists. Training included Non-Violent Resistance (NVR) and the New Authority and "Ayeka" approach.</li>
+        <li><strong>Individual Therapy with At-Risk Adolescents</strong> — Providing therapeutic support to adolescents from low socio-economic backgrounds, focusing on emotional regulation, identity development, and resilience.</li>
+        <li><strong>Adolescent Group Facilitation</strong> — Facilitating youth groups focused on adolescence-related themes, emotional development, and coping with developmental challenges.</li>
+        <li><strong>Low Vision Rehabilitation</strong> — Individual therapy with a rehabilitation-oriented approach for people with visual impairment, Tel Aviv.</li>
       </ul>
     </section>
 
