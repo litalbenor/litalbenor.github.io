@@ -703,17 +703,18 @@ body.rtl .accreditation-list li::before {
 /* Clinic Section */
 .clinic-image {
   width: 100%;
-  border-radius: 12px;
   margin-bottom: var(--space-lg);
-  overflow: hidden;
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+  border-radius: 12px;
 }
 
 .clinic-image img {
   width: 100%;
   height: auto;
+  max-width: 100%;
   display: block;
   border-radius: 12px;
+  object-fit: contain;
 }
 
 /* Location Box */
