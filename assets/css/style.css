@@ -1102,11 +1102,14 @@ body.rtl .about-portrait {
 }
 
 .service-preview {
+  display: block;
   background: var(--color-cream);
   padding: var(--space-md);
   border-radius: 8px;
   border-left: 3px solid var(--color-turquoise);
   transition: transform var(--transition-fast), box-shadow var(--transition-fast);
+  text-decoration: none;
+  cursor: pointer;
 }
 
 body.rtl .service-preview {
@@ -1143,14 +1146,10 @@ body.rtl .service-preview:nth-child(4) {
 .service-preview h3 {
   margin: 0 0 var(--space-xs);
   font-size: 1.1rem;
-}
-
-.service-preview h3 a {
   color: var(--color-charcoal);
-  text-decoration: none;
 }
 
-.service-preview h3 a:hover {
+.service-preview:hover h3 {
   color: var(--color-purple-dark);
 }
 

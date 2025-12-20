@@ -26,22 +26,22 @@ image: /assets/images/logo.png
   <div class="container">
     <h2 id="services-heading">How I Can Help</h2>
     <div class="services-grid">
-      <div class="service-preview">
-        <h3><a href="/en/couples-therapy">Couples Therapy</a></h3>
+      <a href="/en/couples-therapy" class="service-preview">
+        <h3>Couples Therapy</h3>
         <p>Improve communication, resolve conflicts, and rebuild your connection with professional relationship support.</p>
-      </div>
-      <div class="service-preview">
-        <h3><a href="/en/individual-therapy">Individual Therapy</a></h3>
+      </a>
+      <a href="/en/individual-therapy" class="service-preview">
+        <h3>Individual Therapy</h3>
         <p>Explore personal challenges, develop coping strategies, and foster growth in a confidential space.</p>
-      </div>
-      <div class="service-preview">
-        <h3><a href="/en/psychosexual-therapy">Psychosexual Therapy</a></h3>
+      </a>
+      <a href="/en/psychosexual-therapy" class="service-preview">
+        <h3>Psychosexual Therapy</h3>
         <p>Address intimacy concerns and sexual difficulties with sensitivity and expertise.</p>
-      </div>
-      <div class="service-preview">
-        <h3><a href="/en/emdr">EMDR Trauma Therapy</a></h3>
+      </a>
+      <a href="/en/emdr" class="service-preview">
+        <h3>EMDR Trauma Therapy</h3>
         <p>Process traumatic memories and reduce their emotional impact with evidence-based EMDR.</p>
-      </div>
+      </a>
     </div>
   </div>
 </section>
