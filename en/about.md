@@ -74,7 +74,7 @@ permalink: /en/about
       <ul>
         <li><strong>Psychosexual Therapy</strong> — Bar-Ilan University</li>
         <li><strong>Couples and Family Therapy</strong> — Bar-Ilan University</li>
-        <li><strong>M.S.W. (Master of Social Work)</strong> — Tel Aviv University</li>
+        <li><strong>M.S.W.</strong> — Tel Aviv University</li>
         <li><strong>B.A. in Social Work</strong> — Bar-Ilan University</li>
         <li><strong>B.Sc. in Life Sciences</strong> — Ben-Gurion University</li>
       </ul>
@@ -82,7 +82,7 @@ permalink: /en/about
       <h3>Training</h3>
       <ul>
         <li><strong>Certified Couple & Family Therapist</strong></li>       
-        <li><strong>EMDR Training</strong> — Certified EMDR Practitioner</li>
+        <li><strong>EMDR Training</strong> — EMDR Practitioner</li>
         <li><strong>Parenting Therapy</strong> — Specialist training in working with single-parent families through the Ministry of Health, at the Centre for the Training of Psychologists. Training included Non-Violent Resistance (NVR) and the New Authority and "Ayeka" approach.</li>
         <li><strong>Individual Therapy with At-Risk Adolescents</strong> — Providing therapeutic support to adolescents from low socio-economic backgrounds, focusing on emotional regulation, identity development, and resilience.</li>
         <li><strong>Adolescent Group Facilitation</strong> — Facilitating youth groups focused on adolescence-related themes, emotional development, and coping with developmental challenges.</li>
