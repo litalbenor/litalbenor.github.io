@@ -489,7 +489,7 @@ body.rtl .lang-switcher {
 }
 
 .hero-title {
-  font-size: clamp(2.5rem, 6vw, 3.5rem);
+  font-size: clamp(1.5rem, 4vw, 2.25rem);
   font-weight: 400;
   margin-bottom: var(--space-sm);
   color: var(--color-purple-dark);
