@@ -13,7 +13,7 @@ image: /assets/images/logo.png
   <img src="/assets/images/logo.png" alt="Lital Ben Or - Certified Couple and Individual Therapist in North London" class="hero-logo" width="150" height="150">
   <h1 class="hero-title"><a href="/en/individual-therapy">Psychotherapy</a> • <a href="/en/couples-therapy">Couples Therapy</a> • <a href="/en/psychosexual-therapy">Sex Therapy</a><br><a href="/en/emdr">EMDR</a></h1>
   <p class="hero-description">
-    Supporting individuals and couples through relationship challenges, intimacy difficulties, bereavement, anxiety, trauma, and emotional distress — in person and online.
+    Supporting individuals and couples through relationship challenges, intimacy difficulties, bereavement, anxiety, trauma, and emotional distress — in&nbsp;person and&nbsp;online.
   </p>
   <div class="hero-buttons">
     <a href="https://wa.me/447917923886?text=Hi%20Lital%2C%20I%20saw%20your%20website%20and%20I%27d%20like%20to%20learn%20more%20about%20your%20services." class="btn btn--primary" target="_blank" rel="noopener" aria-label="Book a consultation via WhatsApp">Book a Consultation</a>
