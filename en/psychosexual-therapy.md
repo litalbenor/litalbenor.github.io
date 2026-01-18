@@ -27,14 +27,16 @@ permalink: /en/psychosexual-therapy
     <section class="content-section">
       <h2>What I Can Help With</h2>
       <ul>
-        <li>Low sexual desire or mismatched desire</li>
-        <li>Sexual anxiety and performance concerns</li>
-        <li>Intimacy difficulties</li>
-        <li>Pain during intercourse</li>
-        <li>Erectile difficulties</li>
         <li>Relationship dynamics around sexuality</li>
-        <li>Sexual identity exploration</li>
-        <li>Recovery from sexual trauma</li>
+        <li>Psychoeducation to promote healthy and fulfilling sexuality</li>
+        <li>Sexual anxiety and performance concerns</li>
+        <li>Pain during intercourse</li>
+        <li>Body image concerns or low sexual self-confidence</li>
+        <li>Sexual trauma</li>
+        <li>Sexual identity exploration or orientation</li>
+        <li>Difficulties reaching orgasm</li>
+        <li>Erectile difficulties</li>
+        <li>Sex, intimacy, and sexuality during pregnancy and after childbirth</li>
       </ul>
     </section>
 
