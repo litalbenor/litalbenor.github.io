@@ -51,7 +51,7 @@ permalink: /en/emdr
 
     <section class="content-section page-cta">
       <h2>Ready to Take the First Step?</h2>
-      <p>If you're wondering whether EMDR might be right for you, I'd be happy to answer your questions in a free initial conversation.</p>
+      <p>If you're wondering whether EMDR might be right for you, you're welcome to reach out for an initial conversation.</p>
       <div class="cta-buttons">
         <a href="/en/about" class="btn btn--secondary">About Me</a>
         <a href="/en/contact" class="btn btn--primary">Get in Touch</a>
