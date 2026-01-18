@@ -35,16 +35,16 @@ permalink: /en/individual-therapy
         <li>Personal development and growth</li>
         <li>Relationship difficulties (from an individual perspective)</li>
         <li>Trauma and past experiences</li>
+        <li>Parenting support and guidance</li>
       </ul>
     </section>
 
     <section class="content-section">
       <h2>My Approach</h2>
       <p>
-        I work integratively, drawing from various therapeutic modalities to tailor my approach to your unique needs. My work is grounded in empathy, respect, and a deep belief in every person's capacity for growth and healing.
-      </p>
-      <p>
-        Sessions are typically 50 minutes and can be held in-person at my <a href="/en/clinic">North London clinic</a> or online.
+        I work from an integrative therapeutic perspective, informed by a range of established modalities and clinical approaches. My training encompasses systemic approaches (including narrative, family systems, and postmodern perspectives), psychodynamic therapies (such as object relations and attachment-based work), and cognitive-behavioural therapy (CBT).
+        <br><br>My work is grounded in empathy, respect, and thoughtful clinical understanding, allowing space for both emotional depth and practical change. I hold a deep belief in every person's inherent capacity for growth and healing, and I aim to support this process by creating a safe, reflective, and collaborative therapeutic relationship in which meaningful insight and lasting change can emerge.
+        <br><br>Sessions are typically 50 minutes and can be held in-person at my <a href="/en/clinic">North London clinic</a> or online.
       </p>
     </section>
 
