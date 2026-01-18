@@ -42,7 +42,7 @@ permalink: /en/couples-therapy
       <h2>How Couples Therapy Works</h2>
       <p>
         Couples therapy is a collaborative process that begins with building a safe space for getting to know each partner and developing a shared understanding of the difficulties they are facing. Together, we explore patterns of interaction, emotional needs, and underlying dynamics that shape the relationship. My approach is integrative: I am trained as a dynamic therapist and also work with CBT, and I draw from a wide range of therapeutic tools to tailor the work to each couple. This flexibility allows me to create focused and meaningful interventions that support change, strengthen connection, and help couples move toward the goals they define for their relationship.
-        Sessions can be held in-person at my <a href="/en/clinic">North London clinic</a> or online.
+        <br>Sessions can be held in-person at my <a href="/en/clinic">North London clinic</a> or online.
       </p>
     </section>
 
