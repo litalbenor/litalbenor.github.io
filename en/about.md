@@ -72,10 +72,11 @@ permalink: /en/about
       
       <h3>Education</h3>
       <ul>
-        <li><strong>M.S.W.</strong> — Tel Aviv University</li>
-        <li><strong>B.A. Social Work</strong> — Bar-Ilan University</li>
-        <li><strong>B.Sc. Life Sciences</strong> — Ben-Gurion University</li>
-         <li><strong>Sexual Psychotherapy</strong> — Bar-Ilan University</li>
+        <li><strong>Psychosexual Therapy</strong> — Bar-Ilan University</li>
+        <li><strong>Couples and Family Therapy</strong> — Bar-Ilan University</li>
+        <li><strong>M.S.W. (Master of Social Work)</strong> — Tel Aviv University</li>
+        <li><strong>B.A. in Social Work</strong> — Bar-Ilan University</li>
+        <li><strong>B.Sc. in Life Sciences</strong> — Ben-Gurion University</li>
       </ul>
 
       <h3>Training</h3>
