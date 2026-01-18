@@ -20,21 +20,22 @@ permalink: /en/emdr
         EMDR (Eye Movement Desensitisation and Reprocessing) is a powerful, evidence-based psychotherapy that helps people heal from trauma and other distressing life experiences. Developed in the late 1980s, EMDR has since become one of the most researched and effective treatments for trauma, anxiety, and a wide range of emotional difficulties.
       </p>
       <p>
-        Unlike traditional talk therapy, EMDR works by stimulating both sides of the brain through bilateral stimulation — such as guided eye movements, sounds, or tactile sensations. This process helps the brain reprocess traumatic memories, reducing their emotional intensity and allowing clients to move forward without being held back by the past.
+        EMDR works by stimulating both sides of the brain through bilateral stimulation — such as guided eye movements, sounds, or tactile sensations. This process helps the brain reprocess traumatic memories, reducing their emotional intensity and allowing clients to move forward without being held back by the past.
+      </p>
+      <p>
+        EMDR is well-researched and recommended by the NHS and WHO for treating trauma. Sessions can be held in-person at my <a href="/en/clinic">clinic</a> or online.
       </p>
     </section>
 
     <section class="content-section">
       <h2>What EMDR Can Help With</h2>
       <ul>
-        <li>Post-traumatic stress disorder (PTSD)</li>
-        <li>Trauma from accidents, violence, or abuse</li>
+        <li>Trauma and post-traumatic stress (including accidents, violence, abuse, or other distressing experiences)</li>
         <li>Anxiety and panic attacks</li>
-        <li>Phobias and fears</li>
-        <li>Grief and loss</li>
-        <li>Childhood trauma</li>
-        <li>Disturbing memories</li>
-        <li>Performance anxiety</li>
+        <li>Phobias and specific fears</li>
+        <li>Grief, loss, and bereavement</li>
+        <li>Childhood trauma and early adverse experiences</li>
+        <li>Disturbing or intrusive memories</li>
       </ul>
     </section>
 
@@ -48,42 +49,12 @@ permalink: /en/emdr
       </p>
     </section>
 
-    <section class="content-section">
-      <h2>The Equipment I Use</h2>
-      <p>
-        To ensure the most effective treatment, I use professional-grade EMDR equipment — the <strong>EMDR Kit Wireless</strong> with Pulsators and Headphones:
-      </p>
-      
-      <figure class="article-image">
-        <img src="/assets/images/emdr-kit.jpg" alt="EMDR Kit Wireless Pulsators and Headphones used by Lital Ben Or for bilateral stimulation therapy in North London" width="600" height="400" loading="lazy">
-        <figcaption>The EMDR Kit Wireless with Pulsators and Headphones</figcaption>
-      </figure>
-
-      <ul>
-        <li><strong>In-person sessions:</strong> I use wireless pulsators — professional vibrating devices held in each hand that provide gentle bilateral tactile stimulation. This allows clients to close their eyes and focus fully on their internal processing without any distractions.</li>
-        <li><strong>Online sessions:</strong> I use an advanced EMDR application that incorporates visual stimulation (moving images on screen) and bilateral audio cues through headphones, making remote EMDR just as effective as in-person treatment.</li>
-      </ul>
-    </section>
-
-    <section class="content-section">
-      <h2>My Approach: Following the Protocol</h2>
-      <p>
-        I am committed to working strictly according to the established EMDR protocol. This structured approach has been refined through decades of research and clinical practice, and following it carefully ensures safe, responsible, and effective outcomes for my clients.
-      </p>
-      <p>
-        EMDR is not something to be rushed or adapted loosely — it requires precision, proper preparation, and careful pacing. By adhering to the protocol, I can offer my clients the best possible results while maintaining their emotional safety throughout the process.
-      </p>
-      <p>
-        EMDR is well-researched and recommended by the NHS and WHO for treating trauma. Sessions can be held in-person at my <a href="/en/clinic">North London clinic</a> or online.
-      </p>
-    </section>
-
     <section class="content-section page-cta">
-      <h2>Ready to Process Your Past?</h2>
-      <p>EMDR can help you move forward from traumatic experiences. I'm here to guide you through the process safely.</p>
+      <h2>Ready to Take the First Step?</h2>
+      <p>If you're wondering whether EMDR might be right for you, I'd be happy to answer your questions in a free initial conversation.</p>
       <div class="cta-buttons">
         <a href="/en/about" class="btn btn--secondary">About Me</a>
-        <a href="/en/contact" class="btn btn--primary">Book a Consultation</a>
+        <a href="/en/contact" class="btn btn--primary">Get in Touch</a>
       </div>
     </section>
   </div>
