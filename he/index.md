@@ -11,10 +11,9 @@ image: /assets/images/logo.png
 
 <div class="hero">
   <img src="/assets/images/logo.png" alt="ליטל בן אור - מטפלת זוגית ופרטנית מוסמכת בצפון לונדון" class="hero-logo" width="150" height="150">
-  <h1 class="hero-title">מטפלת זוגית ופרטנית</h1>
-  <p class="hero-subtitle">ליטל בן אור • טיפול פסיכו-מיני • EMDR • עברית ואנגלית</p>
+  <h1 class="hero-title"><a href="/he/individual-therapy">פסיכותרפיה</a> • <a href="/he/couples-therapy">טיפול זוגי</a> • <a href="/he/psychosexual-therapy">טיפול מיני</a><br><a href="/he/emdr">EMDR</a></h1>
   <p class="hero-description">
-    מלווה יחידים וזוגות דרך אתגרים בזוגיות, קשיים באינטימיות, אבל, חרדה, טראומה ומצוקה רגשית — פנים אל פנים ובאונליין.
+    מלווה יחידים וזוגות דרך אתגרים בזוגיות, קשיים באינטימיות, אבל, חרדה, טראומה ומצוקה רגשית — פנים&nbsp;אל&nbsp;פנים ובאונליין.
   </p>
   <div class="hero-buttons">
     <a href="https://wa.me/447917923886?text=%D7%94%D7%99%D7%99%20%D7%9C%D7%99%D7%98%D7%9C%2C%20%D7%A8%D7%90%D7%99%D7%AA%D7%99%20%D7%90%D7%AA%20%D7%94%D7%90%D7%AA%D7%A8%20%D7%A9%D7%9C%D7%9A%20%D7%95%D7%90%D7%A9%D7%9E%D7%97%20%D7%9C%D7%A7%D7%91%D7%9C%20%D7%9E%D7%99%D7%93%D7%A2%20%D7%A0%D7%95%D7%A1%D7%A3%20%D7%A2%D7%9C%20%D7%94%D7%A9%D7%99%D7%A8%D7%95%D7%AA%D7%99%D7%9D%20%D7%A9%D7%9C%D7%9A." class="btn btn--primary" target="_blank" rel="noopener" aria-label="קביעת פגישת היכרות בוואטסאפ">לקביעת פגישת היכרות</a>
@@ -26,22 +25,22 @@ image: /assets/images/logo.png
   <div class="container">
     <h2 id="services-heading">איך אני יכולה לעזור</h2>
     <div class="services-grid">
-      <div class="service-preview">
-        <h3><a href="/he/couples-therapy">טיפול זוגי</a></h3>
+      <a href="/he/couples-therapy" class="service-preview">
+        <h3>טיפול זוגי</h3>
         <p>שיפור תקשורת, פתרון קונפליקטים ובניית קשר מחודש עם ליווי מקצועי.</p>
-      </div>
-      <div class="service-preview">
-        <h3><a href="/he/individual-therapy">טיפול פרטני</a></h3>
+      </a>
+      <a href="/he/individual-therapy" class="service-preview">
+        <h3>פסיכותרפיה</h3>
         <p>חקירת אתגרים אישיים, פיתוח אסטרטגיות התמודדות וטיפוח צמיחה במרחב סודי.</p>
-      </div>
-      <div class="service-preview">
-        <h3><a href="/he/psychosexual-therapy">טיפול פסיכו-מיני</a></h3>
+      </a>
+      <a href="/he/psychosexual-therapy" class="service-preview">
+        <h3>טיפול פסיכו-מיני</h3>
         <p>התמודדות עם קשיים באינטימיות ובמיניות ברגישות ומקצועיות.</p>
-      </div>
-      <div class="service-preview">
-        <h3><a href="/he/emdr">טיפול טראומה EMDR</a></h3>
+      </a>
+      <a href="/he/emdr" class="service-preview">
+        <h3>טיפול טראומה EMDR</h3>
         <p>עיבוד זיכרונות טראומטיים והפחתת ההשפעה הרגשית שלהם בשיטת EMDR מבוססת מחקר.</p>
-      </div>
+      </a>
     </div>
   </div>
 </section>

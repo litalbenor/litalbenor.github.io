@@ -21,30 +21,27 @@ permalink: /he/clinic
     <section class="content-section">
       <h2>מרחב מזמין</h2>
       <p>
-        הקליניקה שלי ממוקמת באזור מגורים שקט בצפון לונדון (N12), ומציעה סביבה רגועה הרחק מהמולת מרכז לונדון. המרחב מעוצב להרגיש חם ונוח, ועוזר לכם להרגיש בנוח מהרגע שאתם מגיעים.
+        הקליניקה שלי ממוקמת באזור מגורים שקט בצפון לונדון (N12), ומציעה סביבה רגועה. המרחב מעוצב להרגיש חם ונוח, ועוזר לכם להרגיש בנוח מהרגע שאתם מגיעים.
       </p>
       <p>
-        הקליניקה היא מקום חם ומזמין עם פרחים טריים, משקאות חמים, ישיבה נוחה וכל מה שצריך כדי להרגיש בטוחים ורגועים — כולל צעצועי פידג'ט ושירותים פרטיים.
-      </p>
-      <p>
-        פרטיות וסודיות הן בראש סדר העדיפויות. לקליניקה כניסה פרטית ואזור המתנה נפרד, המבטיחים שהביקורים שלכם נשארים דיסקרטיים.
+        פרטיות וסודיות הן בעלות חשיבות עליונה. לקליניקה כניסה פרטית להבטחת דיסקרטיות, וחנייה במקום זמינה לנוחותכם.
       </p>
     </section>
 
     <section class="content-section">
       <h2>הגעה לקליניקה</h2>
       
-      <h3>ברכבת תחתית</h3>
+      <h3><svg width="24" height="24" viewBox="0 0 24 24" fill="none" style="vertical-align: middle; margin-left: 8px;"><circle cx="12" cy="12" r="11" fill="#000F9F" stroke="#000F9F" stroke-width="1"/><rect x="3" y="9" width="18" height="6" fill="#FFFFFF"/><text x="12" y="14.5" text-anchor="middle" fill="#000F9F" font-size="6" font-weight="bold" font-family="sans-serif">TUBE</text></svg> רכבת תחתית</h3>
       <p>
         <strong>תחנת Woodside Park</strong> (קו Northern) — הקליניקה במרחק הליכה קצר מהתחנה.
       </p>
       
-      <h3>באוטובוס</h3>
+      <h3><svg width="24" height="24" viewBox="0 0 24 24" fill="none" style="vertical-align: middle; margin-left: 8px;"><rect x="2" y="6" width="20" height="12" rx="2" fill="#E32017"/><rect x="4" y="8" width="6" height="5" rx="1" fill="#87CEEB"/><rect x="14" y="8" width="6" height="5" rx="1" fill="#87CEEB"/><circle cx="6" cy="20" r="2" fill="#333"/><circle cx="18" cy="20" r="2" fill="#333"/><rect x="3" y="14" width="18" height="2" fill="#CC1A11"/></svg> אוטובוס</h3>
       <p>
-        <strong>תחנת האוטובוסים North Finchley</strong> — קווי אוטובוס רבים משרתים את האזור, מה שהופך אותו לנגיש מכל רחבי צפון לונדון.
+        <strong>תחנת האוטובוסים North Finchley</strong> — קווי אוטובוס רבים משרתים את האזור, מה שהופך אותו לנגיש בקלות.
       </p>
       
-      <h3>ברכב</h3>
+      <h3><svg width="24" height="24" viewBox="0 0 24 24" fill="none" style="vertical-align: middle; margin-left: 8px;"><rect x="2" y="8" width="20" height="10" rx="2" fill="#4A3F5C"/><rect x="4" y="10" width="5" height="4" rx="1" fill="#87CEEB"/><rect x="15" y="10" width="5" height="4" rx="1" fill="#87CEEB"/><circle cx="6" cy="19" r="2" fill="#333"/><circle cx="18" cy="19" r="2" fill="#333"/><path d="M4 8 L6 4 L18 4 L20 8" fill="#4A3F5C"/></svg> רכב</h3>
       <p>
         <strong>חנייה פרטית חינמית</strong> זמינה בקליניקה (2 מקומות).
       </p>
@@ -53,7 +50,7 @@ permalink: /he/clinic
     <section class="content-section">
       <h2>נגישות</h2>
       <p>
-        יש חמש מדרגות בכניסה לקליניקה. אם תרצו להימנע ממדרגות או זקוקים לגישה ללא מדרגות, אשמח לדון בחלופות נוחות, כולל פגישות אונליין.
+        שימו לב שיש חמש מדרגות בכניסה לקליניקה, ולצערי גישה ללא מדרגות אינה זמינה. אם זה מציב קושי, אשמח להציע טיפול אונליין.
       </p>
     </section>
 
