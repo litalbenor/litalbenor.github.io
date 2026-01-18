@@ -42,10 +42,10 @@ permalink: /en/individual-therapy
     <section class="content-section">
       <h2>My Approach</h2>
       <p>
-        I work from an integrative therapeutic perspective, informed by a range of established modalities and clinical approaches. My training encompasses systemic approaches (including narrative, family systems, and postmodern perspectives), psychodynamic therapies (such as object relations and attachment-based work), and cognitive-behavioural therapy (CBT).
+        I take an integrative approach, drawing on a range of established therapeutic methods tailored to your unique needs. My training includes systemic, psychodynamic, and cognitive-behavioural (CBT) approaches, allowing me to work flexibly and responsively.
       </p>
       <p>
-        My work is grounded in empathy, respect, and thoughtful clinical understanding, allowing space for both emotional depth and practical change. I hold a deep belief in every person's inherent capacity for growth and healing, and I aim to support this process by creating a safe, reflective, and collaborative therapeutic relationship in which meaningful insight and lasting change can emerge.
+        At the heart of my practice is a commitment to empathy, respect, and genuine understanding. I believe deeply in each person's capacity for growth and healing, and I aim to create a safe, collaborative space where meaningful change can take root.
       </p>
       <p>
         Sessions are typically 50 minutes and can be held in-person at my <a href="/en/clinic">North London clinic</a> or online.
