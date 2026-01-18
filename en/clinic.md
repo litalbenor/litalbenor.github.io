@@ -21,13 +21,10 @@ permalink: /en/clinic
     <section class="content-section">
       <h2>A Welcoming Space</h2>
       <p>
-        My clinic is located in a quiet, residential area of North London (N12), offering a peaceful environment away from the bustle of central London. The space is designed to feel warm and comfortable, helping you feel at ease from the moment you arrive.
+        My clinic is located in a quiet, residential area of North London (N12), offering a peaceful environment. The space is designed to feel warm and comfortable, helping you feel at ease from the moment you arrive.
       </p>
       <p>
-        The clinic is a warm, inviting space with fresh flowers, hot beverages, comfortable seating, and everything you need to feel safe and relaxed — including fidget toys and private toilet facilities.
-      </p>
-      <p>
-        Privacy and confidentiality are paramount. The clinic has a private entrance and waiting area, ensuring your visits remain discreet.
+        Privacy and confidentiality are of utmost importance. The clinic offers a private entrance to ensure discretion, and on-site parking is available for your convenience.
       </p>
     </section>
 
@@ -41,7 +38,7 @@ permalink: /en/clinic
       
       <h3>By Bus</h3>
       <p>
-        <strong>North Finchley Bus Station</strong> — Multiple bus routes serve this area, making it easily accessible from across North London.
+        <strong>North Finchley Bus Station</strong> — Multiple bus routes serve this area, making it easily accessible.
       </p>
       
       <h3>By Car</h3>
@@ -53,7 +50,7 @@ permalink: /en/clinic
     <section class="content-section">
       <h2>Accessibility</h2>
       <p>
-        There are just five steps at the entrance to the clinic. If you would like to avoid stairs or require step-free access, I’m happy to discuss comfortable alternatives, including online sessions.
+        Please note that there are five steps at the entrance to the clinic, and step-free access is unfortunately not available. If this presents a difficulty, I'd be happy to offer online therapy.
       </p>
     </section>
 
