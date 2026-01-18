@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Individual Therapy
+title: Psychotherapy
 description: "One-to-one therapy for anxiety, depression, self-esteem, life transitions and personal growth. Confidential sessions in North London (N12) and online."
 lang: en
 dir: ltr
@@ -9,13 +9,13 @@ permalink: /en/individual-therapy
 
 <div class="container container--narrow">
   <header class="page-header">
-    <h1 class="page-title">Individual Therapy</h1>
+    <h1 class="page-title">Psychotherapy</h1>
     <p class="page-intro">A confidential space to explore personal challenges and foster growth.</p>
   </header>
 
   <div class="page-content">
     <section class="content-section">
-      <h2>What is Individual Therapy?</h2>
+      <h2>What is Psychotherapy?</h2>
       <p>
         One-to-one therapy provides a confidential space to explore personal challenges, emotional difficulties, and life transitions. Together, we work to understand patterns, develop coping strategies, and foster personal growth.
       </p>

@@ -30,7 +30,7 @@ image: /assets/images/logo.png
         <p>Improve communication, resolve conflicts, and rebuild your connection with professional relationship support.</p>
       </a>
       <a href="/en/individual-therapy" class="service-preview">
-        <h3>Individual Therapy</h3>
+        <h3>Psychotherapy</h3>
         <p>Explore personal challenges, develop coping strategies, and foster growth in a confidential space.</p>
       </a>
       <a href="/en/psychosexual-therapy" class="service-preview">
