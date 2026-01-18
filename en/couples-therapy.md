@@ -29,12 +29,14 @@ permalink: /en/couples-therapy
       <ul>
         <li>Communication difficulties</li>
         <li>Conflict and recurring arguments</li>
-        <li>Trust issues and betrayal</li>
-        <li>Intimacy and connection</li>
+        <li>Intimacy and emotional connection difficulties</li>
         <li>Life transitions (parenthood, relocation, retirement)</li>
+        <li>Trust issues and betrayal, rebuilding the relationship after crisis</li>
         <li>Different values or goals</li>
         <li>Considering separation or staying together</li>
-        <li>Rebuilding after crisis</li>
+        <li>Low sexual desire or mismatched desire</li>
+        <li>Adjusting to becoming parents</li>
+        <li>Parenting guidance</li>
       </ul>
     </section>
 
